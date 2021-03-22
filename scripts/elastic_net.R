@@ -145,7 +145,6 @@ p1 <- ggplot() +
   geom_hline(yintercept = 0) +
   labs(x = NULL, y = "Coefficient", title = "Confidence Interval of Elastic Net Coefficients") +
   theme(
-    # text = element_text(size=8),
     legend.position = "none", 
     panel.background = element_rect(
       fill = "white",
