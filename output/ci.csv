@@ -1,0 +1,25 @@
+Variable,low,mean,high
+Lockdown Indicator,-3.48,-1.11,1.25
+Lockdown Slope before Inflection Point,-0.0523,-0.0143,0.0238
+Lockdown Slope after Inflection Point,0.865,1.05,1.23
+Total Population,3.9e-6,1.63e-5,2.87e-5
+Population Density,-0.00183,4.5e-6,0.00184
+Median Age,-1.07,-0.855,-0.638
+Median Family Income,7.3e-5,1.55e-4,2.38e-4
+Gini Index,0.233,16.9,33.6
+Proportion of Male,-41.2,-16.7,7.75
+Proportion of Whites,-16.8,-3.06,10.6
+Proportion of African Americans,-9,4.29,17.6
+Proportion of Natives,-26.4,-10.1,6.26
+Proportion of Asians,-27.4,16.9,61.1
+Proportion of Individuals who Used Public Transport,-34.7,26.9,88.5
+Proportion who Moved within the Same County,79,104,130
+Proportion with Private Health Insurance,-16.6,-2.52,11.6
+Proportion with Public Health Insurance,-6.31,12.7,31.6
+Debt/Contract Relief,-0.0473,0.0859,0.219
+Public Information Campaigns,-0.0329,-0.00848,0.016
+Testing Policy,-0.123,-0.0304,0.0623
+Contact Tracing,-0.0285,-0.00566,0.0172
+Facial Coverings,-0.00234,0.00263,0.00759
+Vaccination Policy,-0.095,-6.52e-4,0.0937
+Protection of Elderly People,-0.00548,-0.0011,0.00327

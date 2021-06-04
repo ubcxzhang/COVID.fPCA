@@ -1,0 +1,3113 @@
+County,First_FPC_Score
+"Autauga, Alabama, US",10.111995811826088
+"Baldwin, Alabama, US",28.009835382278247
+"Barbour, Alabama, US",3.4459443998333956
+"Bibb, Alabama, US",-1.9330283047030212
+"Blount, Alabama, US",6.417383356649568
+"Bullock, Alabama, US",-2.4493023260833784
+"Butler, Alabama, US",7.95832740900618
+"Calhoun, Alabama, US",21.26790699649035
+"Chambers, Alabama, US",9.977387803427105
+"Cherokee, Alabama, US",-8.835933753719374
+"Chilton, Alabama, US",5.653309666086005
+"Choctaw, Alabama, US",-12.977162326827806
+"Clarke, Alabama, US",4.590463064911637
+"Clay, Alabama, US",-12.411173581349638
+"Cleburne, Alabama, US",-19.904623276606788
+"Coffee, Alabama, US",11.433953830250273
+"Colbert, Alabama, US",12.337268999647577
+"Conecuh, Alabama, US",-7.8571075767415905
+"Coosa, Alabama, US",-23.49032749835755
+"Covington, Alabama, US",7.540786042691147
+"Crenshaw, Alabama, US",-5.342537049102132
+"Cullman, Alabama, US",12.703744307556383
+"Dale, Alabama, US",8.532706042403278
+"Dallas, Alabama, US",12.976359438259447
+"DeKalb, Alabama, US",20.361104829002716
+"Elmore, Alabama, US",15.210498166667731
+"Escambia, Alabama, US",8.811883086929583
+"Etowah, Alabama, US",23.10665812879529
+"Fayette, Alabama, US",-10.949032769943711
+"Franklin, Alabama, US",13.106461825711303
+"Geneva, Alabama, US",-1.633502501429976
+"Greene, Alabama, US",-11.5670145352207
+"Hale, Alabama, US",0.11851945304836303
+"Henry, Alabama, US",-6.19229321474976
+"Houston, Alabama, US",18.774185449160917
+"Jackson, Alabama, US",8.078195717480412
+"Jefferson, Alabama, US",50.577548445056344
+"Lamar, Alabama, US",-14.79245980595955
+"Lauderdale, Alabama, US",11.056439221945375
+"Lawrence, Alabama, US",-8.056356171397633
+"Lee, Alabama, US",27.87608928914208
+"Limestone, Alabama, US",12.844972385356195
+"Lowndes, Alabama, US",0.22185789555976537
+"Macon, Alabama, US",-8.110938493059605
+"Madison, Alabama, US",33.471736091144884
+"Marengo, Alabama, US",0.9406525511510627
+"Marion, Alabama, US",0.4532639860171388
+"Marshall, Alabama, US",29.163761525484105
+"Mobile, Alabama, US",48.874441454646394
+"Monroe, Alabama, US",-7.903950862912572
+"Montgomery, Alabama, US",40.18225194988904
+"Morgan, Alabama, US",22.551389908569387
+"Perry, Alabama, US",-7.651924684202495
+"Pickens, Alabama, US",-2.103494274620464
+"Pike, Alabama, US",6.066634547915716
+"Randolph, Alabama, US",-2.4690700658466693
+"Russell, Alabama, US",11.817161299168843
+"Shelby, Alabama, US",30.38155563234525
+"St. Clair, Alabama, US",13.158424124375989
+"Sumter, Alabama, US",-6.349180917043385
+"Talladega, Alabama, US",11.280318114940801
+"Tallapoosa, Alabama, US",10.133709134116721
+"Tuscaloosa, Alabama, US",31.715579677847742
+"Walker, Alabama, US",16.86848586852927
+"Washington, Alabama, US",-6.55131934529105
+"Wilcox, Alabama, US",-4.9481168010609675
+"Winston, Alabama, US",0.0763778829394363
+"Aleutians East, Alaska, US",-26.56260614899113
+"Aleutians West, Alaska, US",-14.676106884997703
+"Anchorage,Alaska,US",26.315886237253803
+"Bethel, Alaska, US",4.201056165008914
+"Bristol Bay plus Lake and Peninsula, Alaska, US",-23.34839898163694
+"Denali, Alaska, US",-32.54148997696892
+"Dillingham, Alaska, US",-30.516358437489114
+"Fairbanks North Star,Alaska,US",3.4875444491900836
+"Haines, Alaska, US",-58.666402778005484
+"Juneau, Alaska, US",-15.818576551398511
+"Kenai Peninsula,Alaska,US",-3.0513915342923594
+"Ketchikan Gateway, Alaska, US",-39.527328758054175
+"Kodiak Island, Alaska, US",-7.765138840545291
+"Matanuska-Susitna,Alaska,US",2.3184456961378626
+"Nome, Alaska, US",-22.70884060404658
+"North Slope, Alaska, US",0.501020371441397
+"Northwest Arctic, Alaska, US",-9.22805366945584
+"Petersburg, Alaska, US",-51.25898929825991
+"Prince of Wales-Hyder, Alaska, US",-33.53466479284982
+"Sitka, Alaska, US",-22.133118060739843
+"Skagway, Alaska, US",-37.59157301187601
+"Southeast Fairbanks, Alaska, US",-18.613630760722007
+"Valdez-Cordova, Alaska, US",-15.065237915502506
+"Wrangell, Alaska, US",-54.26585640473185
+"Yakutat, Alaska, US",-35.97042205343045
+"Yukon-Koyukuk, Alaska, US",-16.323147154535654
+"Apache, Arizona, US",28.930321582952782
+"Cochise, Arizona, US",15.490868462359744
+"Coconino, Arizona, US",30.35470265634618
+"Gila, Arizona, US",11.163292169721553
+"Graham, Arizona, US",7.150384338711948
+"Greenlee, Arizona, US",-19.252357028424868
+"La Paz, Arizona, US",-0.7457640178732761
+"Maricopa, Arizona, US",86.1109072598797
+"Mohave, Arizona, US",26.8289064874644
+"Navajo, Arizona, US",36.79681346635987
+"Pima, Arizona, US",57.27165383212642
+"Pinal, Arizona, US",37.151875473966676
+"Santa Cruz, Arizona, US",23.447524904362126
+"Yavapai, Arizona, US",21.17788790354412
+"Yuma, Arizona, US",45.20093365992047
+"Arkansas, Arkansas, US",3.9174967992055083
+"Ashley, Arkansas, US",-11.368523445223559
+"Baxter, Arkansas, US",-13.029698157893824
+"Benton, Arkansas, US",34.43118879602125
+"Boone, Arkansas, US",6.374233065047564
+"Bradley, Arkansas, US",-17.672395903592477
+"Calhoun, Arkansas, US",-18.236552093006793
+"Carroll, Arkansas, US",3.3202678818362847
+"Chicot, Arkansas, US",-3.312078647777078
+"Clark, Arkansas, US",-16.22192832810887
+"Clay, Arkansas, US",2.4319119172197663
+"Cleburne, Arkansas, US",-12.165323583440651
+"Cleveland, Arkansas, US",-28.938455955374074
+"Columbia, Arkansas, US",-6.5171750880925865
+"Conway, Arkansas, US",-14.343400035562995
+"Craighead, Arkansas, US",20.174161396092185
+"Crawford, Arkansas, US",17.55930830163775
+"Crittenden, Arkansas, US",15.753970572586057
+"Cross, Arkansas, US",-11.120389286401178
+"Dallas, Arkansas, US",-7.8452299765122175
+"Desha, Arkansas, US",-18.121333058353922
+"Drew, Arkansas, US",-14.364651256236462
+"Faulkner, Arkansas, US",14.481825539840921
+"Franklin, Arkansas, US",0.3328798020155233
+"Fulton, Arkansas, US",-13.789273976271188
+"Garland, Arkansas, US",11.12734488736662
+"Grant, Arkansas, US",-18.390899958057982
+"Greene, Arkansas, US",3.3661906637274983
+"Hempstead, Arkansas, US",-9.837326638435508
+"Hot Spring, Arkansas, US",8.092128165109429
+"Howard, Arkansas, US",-11.77598641509847
+"Independence, Arkansas, US",-2.3267520920053713
+"Izard, Arkansas, US",-13.948835465706113
+"Jackson, Arkansas, US",9.296477392038113
+"Jefferson, Arkansas, US",20.36306276958059
+"Johnson, Arkansas, US",-1.0931874894687357
+"Lafayette, Arkansas, US",-29.43674706537635
+"Lawrence, Arkansas, US",-5.05451254241074
+"Lee, Arkansas, US",12.255330492740681
+"Lincoln, Arkansas, US",17.075024020559862
+"Little River, Arkansas, US",-3.3359624744822676
+"Logan, Arkansas, US",5.279266272514404
+"Lonoke, Arkansas, US",3.7945441725218267
+"Madison, Arkansas, US",2.7991557545408536
+"Marion, Arkansas, US",-6.22380715881909
+"Miller, Arkansas, US",0.6502479986328994
+"Mississippi, Arkansas, US",10.578151887332544
+"Monroe, Arkansas, US",-22.21354202352465
+"Montgomery, Arkansas, US",-5.531912202856703
+"Nevada, Arkansas, US",-6.6764975959015675
+"Newton, Arkansas, US",-3.5491084315338024
+"Ouachita, Arkansas, US",-20.24444506889338
+"Perry, Arkansas, US",-27.512468410662485
+"Phillips, Arkansas, US",3.6760078787465624
+"Pike, Arkansas, US",-11.351493977862333
+"Poinsett, Arkansas, US",-7.677860773093896
+"Polk, Arkansas, US",-18.316261797731972
+"Pope, Arkansas, US",14.254461814987254
+"Prairie, Arkansas, US",-9.410208236977969
+"Pulaski, Arkansas, US",41.16607861307329
+"Randolph, Arkansas, US",-11.162490685354753
+"Saline, Arkansas, US",14.073085024325557
+"Scott, Arkansas, US",-8.33116443261563
+"Searcy, Arkansas, US",-34.880623183786014
+"Sebastian, Arkansas, US",16.821357624440576
+"Sevier, Arkansas, US",6.413592741770281
+"Sharp, Arkansas, US",-10.168981719952692
+"St. Francis, Arkansas, US",15.474365597598524
+"Stone, Arkansas, US",-26.920753376791055
+"Union, Arkansas, US",0.9325262893608531
+"Van Buren, Arkansas, US",-27.36295710384936
+"Washington, Arkansas, US",36.12606072579172
+"White, Arkansas, US",-1.0832639302273106
+"Woodruff, Arkansas, US",-19.670454756510836
+"Yell, Arkansas, US",16.187847929779302
+"Alameda, California, US",51.681418287580925
+"Alpine, California, US",-12.948838065797212
+"Amador, California, US",-16.41909328033953
+"Butte, California, US",8.837796334344116
+"Calaveras, California, US",-18.4509780766864
+"Colusa, California, US",2.8723044857761018
+"Contra Costa, California, US",43.12190018061999
+"Del Norte, California, US",-11.63709104434357
+"El Dorado, California, US",5.260537899532816
+"Fresno, California, US",54.60238853010122
+"Glenn, California, US",-4.1197988798439
+"Humboldt, California, US",-7.664486099537198
+"Imperial, California, US",43.990251626618566
+"Inyo, California, US",-27.16954246341841
+"Kern, California, US",58.12333194826863
+"Kings, California, US",37.36928947367071
+"Lake, California, US",-7.674934271447764
+"Lassen, California, US",21.402505301069777
+"Los Angeles, California, US",94.97926815589432
+"Madera, California, US",19.770842833427967
+"Marin, California, US",28.459469206679938
+"Mariposa, California, US",-31.051094119979243
+"Mendocino, California, US",1.0484606488878456
+"Merced, California, US",34.49602114187467
+"Modoc, California, US",-13.985924251080355
+"Mono, California, US",-22.221427019815568
+"Monterey, California, US",36.28055622970923
+"Napa, California, US",10.162269118142648
+"Nevada, California, US",-6.918667914896057
+"Orange, California, US",69.23458748965257
+"Placer, California, US",19.492548257232958
+"Plumas, California, US",-15.336398750438434
+"Riverside, California, US",69.7820570280904
+"Sacramento, California, US",48.73329336328803
+"San Benito, California, US",1.699873479972104
+"San Bernardino, California, US",70.84989780703117
+"San Diego, California, US",68.32654927313008
+"San Francisco, California, US",40.56030892612769
+"San Joaquin, California, US",45.94587828146346
+"San Luis Obispo, California, US",21.170398907457173
+"San Mateo, California, US",40.25240786599227
+"Santa Barbara, California, US",39.73260412638788
+"Santa Clara, California, US",48.700298839369246
+"Santa Cruz, California, US",11.927849955964772
+"Shasta, California, US",4.6362929094563
+"Sierra, California, US",-34.47049835389241
+"Siskiyou, California, US",-23.43192636921052
+"Solano, California, US",27.25579797514284
+"Sonoma, California, US",31.768457054087012
+"Stanislaus, California, US",43.398209171034004
+"Sutter, California, US",7.689063088671971
+"Tehama, California, US",16.83851128814326
+"Trinity, California, US",-21.505182900771274
+"Tulare, California, US",47.2250662928371
+"Tuolumne, California, US",9.193352316834048
+"Ventura, California, US",43.925197934213834
+"Yolo, California, US",16.648540258464898
+"Yuba, California, US",-0.4515772935510132
+"Adams, Colorado, US",45.39697397808347
+"Alamosa, Colorado, US",-12.501210005654237
+"Arapahoe, Colorado, US",47.34759193762259
+"Archuleta, Colorado, US",-40.07822468270363
+"Baca, Colorado, US",-50.90449086779145
+"Bent, Colorado, US",-4.34851305441825
+"Boulder, Colorado, US",27.76011527483346
+"Broomfield, Colorado, US",2.5907104565540706
+"Chaffee, Colorado, US",-13.004367643461197
+"Cheyenne, Colorado, US",-51.85254830014091
+"Clear Creek, Colorado, US",-41.10326481137175
+"Conejos, Colorado, US",-24.2857254093875
+"Costilla, Colorado, US",-35.25184335664548
+"Crowley, Colorado, US",-8.346398471548325
+"Custer, Colorado, US",-29.458833489403162
+"Delta, Colorado, US",-14.852006294202866
+"Denver, Colorado, US",51.9268374312774
+"Dolores, Colorado, US",-13.792781725222701
+"Douglas, Colorado, US",24.66591924286157
+"Eagle, Colorado, US",11.640797748563708
+"El Paso, Colorado, US",41.89609810190586
+"Elbert, Colorado, US",-20.912590956732657
+"Fremont, Colorado, US",-8.45776665832068
+"Garfield, Colorado, US",3.724509227046441
+"Gilpin, Colorado, US",-38.52387988511535
+"Grand, Colorado, US",-27.418467219522018
+"Gunnison, Colorado, US",-13.817564354913726
+"Hinsdale, Colorado, US",-31.393062585879246
+"Huerfano, Colorado, US",-23.987919708945423
+"Jackson, Colorado, US",-48.14303352569286
+"Jefferson, Colorado, US",38.53851914120367
+"Kiowa, Colorado, US",-22.346760628427653
+"Kit Carson, Colorado, US",-30.99089350678655
+"La Plata, Colorado, US",-10.315155067103547
+"Lake, Colorado, US",-26.569061177384697
+"Larimer, Colorado, US",24.254590514192397
+"Las Animas, Colorado, US",-26.573312013016313
+"Lincoln, Colorado, US",-10.58045753450194
+"Logan, Colorado, US",8.825645304316264
+"Mesa, Colorado, US",0.4408657916959154
+"Mineral, Colorado, US",-44.35197712002306
+"Moffat, Colorado, US",-35.94204476314872
+"Montezuma, Colorado, US",-19.19638676818253
+"Montrose, Colorado, US",-4.720963577212505
+"Morgan, Colorado, US",9.153892708043415
+"Otero, Colorado, US",-24.95743080342134
+"Ouray, Colorado, US",-47.73933498737333
+"Park, Colorado, US",-36.34052162227461
+"Phillips, Colorado, US",-41.43236122239989
+"Pitkin, Colorado, US",-20.579257520689612
+"Prowers, Colorado, US",-17.033912189749284
+"Pueblo, Colorado, US",15.753174100066063
+"Rio Blanco, Colorado, US",-18.266032092132853
+"Rio Grande, Colorado, US",-31.37938685522636
+"Routt, Colorado, US",-19.617132718442694
+"Saguache, Colorado, US",-20.278668021090436
+"San Juan, Colorado, US",-37.34343408075291
+"San Miguel, Colorado, US",-31.348263742375302
+"Sedgwick, Colorado, US",-30.25100912925441
+"Summit, Colorado, US",-3.7018626514243045
+"Teller, Colorado, US",-22.862449046380387
+"Washington, Colorado, US",-31.809747850931434
+"Weld, Colorado, US",38.11349872116614
+"Yuma, Colorado, US",-22.389697231225718
+"Fairfield, Connecticut, US",63.73835479632284
+"Hartford, Connecticut, US",58.173936758408374
+"Litchfield, Connecticut, US",22.538954815413415
+"Middlesex, Connecticut, US",20.270437815485845
+"New Haven, Connecticut, US",59.22852766997394
+"New London, Connecticut, US",25.537895038228395
+"Tolland, Connecticut, US",16.47194427848744
+"Windham, Connecticut, US",12.413498423939528
+"Kent, Delaware, US",27.025169652780615
+"New Castle, Delaware, US",45.9750619298861
+"Sussex, Delaware, US",42.273627638914455
+"District of Columbia,District of Columbia,US",55.33293365069428
+"Alachua, Florida, US",31.665922994248326
+"Baker, Florida, US",-2.9701961709943494
+"Bay, Florida, US",25.440461296516908
+"Bradford, Florida, US",-1.5635350787961606
+"Brevard, Florida, US",36.22758686813498
+"Broward, Florida, US",73.81664796841405
+"Calhoun, Florida, US",-6.429360392128219
+"Charlotte, Florida, US",23.540226957747098
+"Citrus, Florida, US",13.506646782576174
+"Clay, Florida, US",26.951178496854464
+"Collier, Florida, US",42.938577101163915
+"Columbia, Florida, US",21.07053133207245
+"DeSoto,Florida,US",7.787064570618423
+"Dixie, Florida, US",-1.8023169829679162
+"Duval, Florida, US",56.80358945933497
+"Escambia, Florida, US",42.72966111890205
+"Flagler, Florida, US",10.077675802616612
+"Franklin, Florida, US",10.900519627805519
+"Gadsden, Florida, US",18.8111443304552
+"Gilchrist, Florida, US",-4.601992684092837
+"Glades, Florida, US",-8.912217369437597
+"Gulf, Florida, US",11.942973712960214
+"Hamilton, Florida, US",4.8923679868841345
+"Hardee, Florida, US",12.062015597475975
+"Hendry, Florida, US",17.098242110069847
+"Hernando, Florida, US",15.590958937725237
+"Highlands, Florida, US",12.876451545713504
+"Hillsborough, Florida, US",62.575486204050385
+"Holmes, Florida, US",-1.9243364164063093
+"Indian River, Florida, US",17.670323379067252
+"Jackson, Florida, US",18.622860865052996
+"Jefferson, Florida, US",-9.919073567513605
+"Lafayette, Florida, US",1.976918516926878
+"Lake, Florida, US",32.56371369988104
+"Lee, Florida, US",51.138139512098434
+"Leon, Florida, US",34.69407303731703
+"Levy, Florida, US",0.1596287375860284
+"Liberty, Florida, US",0.2637495828087894
+"Madison, Florida, US",0.5823536175088612
+"Manatee, Florida, US",40.87245696339604
+"Marion, Florida, US",33.780222622979856
+"Martin, Florida, US",29.61495020389822
+"Miami-Dade, Florida, US",89.25129223301528
+"Monroe, Florida, US",10.727289143183794
+"Nassau, Florida, US",9.329253966873242
+"Okaloosa, Florida, US",24.527191720275187
+"Okeechobee, Florida, US",7.858783117806492
+"Orange, Florida, US",62.32905651296039
+"Osceola, Florida, US",40.85094033178865
+"Palm Beach, Florida, US",66.37325436800181
+"Pasco, Florida, US",35.69939237397403
+"Pinellas, Florida, US",52.802055380001846
+"Polk, Florida, US",48.789176966806615
+"Putnam, Florida, US",12.056358745117683
+"Santa Rosa, Florida, US",26.690755772075654
+"Sarasota, Florida, US",35.21631982255092
+"Seminole, Florida, US",36.53243271305939
+"St. Johns, Florida, US",27.444982403570098
+"St. Lucie, Florida, US",34.5678892485084
+"Sumter, Florida, US",14.987499641366327
+"Suwannee, Florida, US",17.326184816564073
+"Taylor, Florida, US",12.911400611021943
+"Union, Florida, US",1.169615823202779
+"Volusia, Florida, US",37.542734265136716
+"Wakulla, Florida, US",-1.4370941252447027
+"Walton, Florida, US",9.305567766680975
+"Washington, Florida, US",2.194226862533255
+"Appling, Georgia, US",3.2851578528459098
+"Atkinson, Georgia, US",-8.8469396410841
+"Bacon, Georgia, US",-6.134539926829143
+"Baker, Georgia, US",-35.07251016805134
+"Baldwin, Georgia, US",15.587645977918074
+"Banks, Georgia, US",-6.626898872202129
+"Barrow, Georgia, US",16.24176490449819
+"Bartow, Georgia, US",19.610840342848793
+"Ben Hill, Georgia, US",-2.787302926565293
+"Berrien, Georgia, US",-9.038076013895354
+"Bibb, Georgia, US",29.626501910932898
+"Bleckley, Georgia, US",-9.154370996293705
+"Brantley, Georgia, US",-10.473076925388751
+"Brooks, Georgia, US",-7.489194968551661
+"Bryan, Georgia, US",-0.17679271459412702
+"Bulloch, Georgia, US",13.411373474761596
+"Burke, Georgia, US",-1.1573017565596835
+"Butts, Georgia, US",-0.06246898346371395
+"Calhoun, Georgia, US",-16.11790468298047
+"Camden, Georgia, US",2.6157697647406324
+"Candler, Georgia, US",-13.897233524315666
+"Carroll, Georgia, US",22.065165703395778
+"Catoosa, Georgia, US",6.547472971463354
+"Charlton, Georgia, US",-7.395864841649099
+"Chatham, Georgia, US",34.40115725893863
+"Chattahoochee, Georgia, US",8.21328639846978
+"Chattooga, Georgia, US",-5.774025234753174
+"Cherokee, Georgia, US",30.01967281479923
+"Clarke, Georgia, US",21.595488424925616
+"Clay, Georgia, US",-31.852934301818614
+"Clayton, Georgia, US",34.88442948993074
+"Clinch, Georgia, US",-12.735516280606852
+"Cobb, Georgia, US",50.305503798720565
+"Coffee, Georgia, US",15.333191862484423
+"Colquitt, Georgia, US",16.474709279913082
+"Columbia, Georgia, US",22.58334492280671
+"Cook, Georgia, US",-5.698887101985686
+"Coweta, Georgia, US",19.052169152171956
+"Crawford, Georgia, US",-23.879795222176195
+"Crisp, Georgia, US",-1.4732136348176332
+"Dade, Georgia, US",-14.957453647687844
+"Dawson, Georgia, US",-2.2738130411681015
+"DeKalb, Georgia, US",51.75954656630509
+"Decatur, Georgia, US",4.544530224095815
+"Dodge, Georgia, US",-9.195100868877901
+"Dooly, Georgia, US",-9.694712865113987
+"Dougherty, Georgia, US",26.669488667822492
+"Douglas, Georgia, US",25.47979340448151
+"Early, Georgia, US",-4.691020252291989
+"Echols, Georgia, US",-15.098418631554589
+"Effingham, Georgia, US",4.089845217688713
+"Elbert, Georgia, US",-1.632376225596621
+"Emanuel, Georgia, US",-1.5351031290900978
+"Evans, Georgia, US",-7.205580178437455
+"Fannin, Georgia, US",-8.151657559614419
+"Fayette, Georgia, US",9.465089713327044
+"Floyd, Georgia, US",16.63366778198433
+"Forsyth, Georgia, US",26.100472234528826
+"Franklin, Georgia, US",0.7127666182893474
+"Fulton, Georgia, US",56.136699867504376
+"Gilmer, Georgia, US",3.828464090597831
+"Glascock, Georgia, US",-25.56412909968826
+"Glynn, Georgia, US",16.58974803744392
+"Gordon, Georgia, US",10.930116459640864
+"Grady, Georgia, US",-0.3476451348325062
+"Greene, Georgia, US",-8.949539331169808
+"Gwinnett, Georgia, US",57.845110277063355
+"Habersham, Georgia, US",17.671092747240838
+"Hall, Georgia, US",41.476420382489934
+"Hancock, Georgia, US",-6.669870166875425
+"Haralson, Georgia, US",-8.864501501186034
+"Harris, Georgia, US",0.2618584154411368
+"Hart, Georgia, US",-7.691288596395397
+"Heard, Georgia, US",-19.819298567771362
+"Henry, Georgia, US",30.925190905986824
+"Houston, Georgia, US",22.333781756754206
+"Irwin, Georgia, US",-19.59708711275587
+"Jackson, Georgia, US",14.4818837833959
+"Jasper, Georgia, US",-17.704328461643794
+"Jeff Davis, Georgia, US",-3.058708379252644
+"Jefferson, Georgia, US",-3.9277277352125153
+"Jenkins, Georgia, US",-15.376697595743812
+"Johnson, Georgia, US",-10.831612772352788
+"Jones, Georgia, US",-10.183231245417812
+"Lamar, Georgia, US",-10.826012034536127
+"Lanier, Georgia, US",-18.49267872438038
+"Laurens, Georgia, US",5.939341175720794
+"Lee, Georgia, US",2.116556054812633
+"Liberty, Georgia, US",0.37089503333304097
+"Lincoln, Georgia, US",-26.285699644966492
+"Long, Georgia, US",-17.79123381491406
+"Lowndes, Georgia, US",21.988643575483167
+"Lumpkin, Georgia, US",-2.118913090436751
+"Macon, Georgia, US",-15.413256612596028
+"Madison, Georgia, US",-5.0951124187753
+"Marion, Georgia, US",-21.777266535962944
+"McDuffie,Georgia,US",-5.854958287116518
+"McIntosh, Georgia, US",-15.628533923183905
+"Meriwether, Georgia, US",-6.80212071660898
+"Miller, Georgia, US",-20.08205893780199
+"Mitchell, Georgia, US",4.18829182907096
+"Monroe, Georgia, US",-3.660418618779615
+"Montgomery, Georgia, US",-11.714084904061348
+"Morgan, Georgia, US",-10.684785227433352
+"Murray, Georgia, US",1.5671111602459045
+"Muscogee, Georgia, US",32.36451393008961
+"Newton, Georgia, US",18.61014260127269
+"Oconee, Georgia, US",-2.6654555260813373
+"Oglethorpe, Georgia, US",-10.83566416584159
+"Paulding, Georgia, US",19.765245980857813
+"Peach, Georgia, US",-6.753790475876553
+"Pickens, Georgia, US",-8.148644375401847
+"Pierce, Georgia, US",-2.3748040971512943
+"Pike, Georgia, US",-10.534649896903264
+"Polk, Georgia, US",4.673562094112212
+"Pulaski, Georgia, US",-19.598269132376405
+"Putnam, Georgia, US",-2.5309041904725778
+"Quitman, Georgia, US",-42.87178725337656
+"Rabun, Georgia, US",-15.865878330193954
+"Randolph, Georgia, US",-10.444548986231167
+"Richmond, Georgia, US",31.604934529089476
+"Rockdale, Georgia, US",13.734090284797844
+"Schley, Georgia, US",-35.07779019988995
+"Screven, Georgia, US",-14.418775910366426
+"Seminole, Georgia, US",-17.967355852025083
+"Spalding, Georgia, US",10.005168037262305
+"Stephens, Georgia, US",3.365661229741128
+"Stewart, Georgia, US",-10.266483146452822
+"Sumter, Georgia, US",7.450019662755875
+"Talbot, Georgia, US",-24.940776301920355
+"Taliaferro, Georgia, US",-32.53452026647728
+"Tattnall, Georgia, US",-3.881618816545263
+"Taylor, Georgia, US",-24.52374661834087
+"Telfair, Georgia, US",-11.188414128222831
+"Terrell, Georgia, US",-9.924470801103876
+"Thomas, Georgia, US",11.370583363959879
+"Tift, Georgia, US",12.638160678699313
+"Toombs, Georgia, US",3.2654682058992996
+"Towns, Georgia, US",-15.413615133985951
+"Treutlen, Georgia, US",-16.177758231488944
+"Troup, Georgia, US",19.733481059532288
+"Turner, Georgia, US",-11.848060491119352
+"Twiggs, Georgia, US",-23.593846769444472
+"Union, Georgia, US",-5.089721499334633
+"Upson, Georgia, US",4.7983623168093334
+"Walker, Georgia, US",12.110357581551472
+"Walton, Georgia, US",15.315864029773893
+"Ware, Georgia, US",11.713005423935057
+"Warren, Georgia, US",-31.598414518219975
+"Washington, Georgia, US",-4.138291435222132
+"Wayne, Georgia, US",1.032862145171402
+"Webster, Georgia, US",-44.757575534893945
+"Wheeler, Georgia, US",-16.85565109031314
+"White, Georgia, US",0.5104546636529969
+"Whitfield, Georgia, US",26.532496160342244
+"Wilcox, Georgia, US",-13.697923912171182
+"Wilkes, Georgia, US",-17.873120469429296
+"Wilkinson, Georgia, US",-13.93900981407546
+"Worth, Georgia, US",-2.681645444355389
+"Hawaii, Hawaii, US",-5.932635303149218
+"Honolulu, Hawaii, US",32.21154115162746
+"Kauai, Hawaii, US",-40.99138690492646
+"Maui, Hawaii, US",-9.548886425701077
+"Ada, Idaho, US",45.42502222499938
+"Adams, Idaho, US",-26.25895936882211
+"Bannock, Idaho, US",3.205079069123315
+"Bear Lake, Idaho, US",-15.897780655190298
+"Benewah, Idaho, US",-16.247793578027196
+"Bingham, Idaho, US",10.81107393226526
+"Blaine, Idaho, US",5.122961074363921
+"Boise, Idaho, US",-16.38885843708082
+"Bonner, Idaho, US",5.509665693894346
+"Bonneville, Idaho, US",14.92465176178899
+"Boundary, Idaho, US",-7.084885698114392
+"Butte, Idaho, US",-12.242137757659844
+"Camas, Idaho, US",-26.762655729373904
+"Canyon, Idaho, US",34.89598737227026
+"Caribou, Idaho, US",-13.685895535573488
+"Cassia, Idaho, US",1.2583832773438473
+"Clark, Idaho, US",-36.51543372545678
+"Clearwater, Idaho, US",-6.42409869352421
+"Custer, Idaho, US",-20.50610369350186
+"Elmore, Idaho, US",-12.752508569342295
+"Franklin, Idaho, US",-8.177889572662668
+"Fremont, Idaho, US",0.3969351291812453
+"Gem, Idaho, US",-17.49994794820164
+"Gooding, Idaho, US",-12.410933115036146
+"Idaho, Idaho, US",-0.7244335359828198
+"Jefferson, Idaho, US",-10.066037949764743
+"Jerome, Idaho, US",2.571848291026362
+"Kootenai, Idaho, US",16.09834518088216
+"Latah, Idaho, US",-6.802131846865296
+"Lemhi, Idaho, US",-8.117511751202551
+"Lewis, Idaho, US",-5.015198000150398
+"Lincoln, Idaho, US",-29.142947712896405
+"Madison, Idaho, US",-0.2654261479271166
+"Minidoka, Idaho, US",0.6023748127626852
+"Nez Perce, Idaho, US",-4.551532824525633
+"Oneida, Idaho, US",-21.655962994327556
+"Owyhee, Idaho, US",-13.732655390953523
+"Payette, Idaho, US",-5.086519416266479
+"Power, Idaho, US",-12.818884116678372
+"Shoshone, Idaho, US",5.526910173639706
+"Teton, Idaho, US",-25.741334704971248
+"Twin Falls, Idaho, US",22.665428810492923
+"Valley, Idaho, US",-7.673793874561105
+"Washington, Idaho, US",-2.410884703017436
+"Adams, Illinois, US",8.721261977133427
+"Alexander, Illinois, US",-27.64879123305281
+"Bond, Illinois, US",-13.68394205915748
+"Boone, Illinois, US",16.11814920668841
+"Brown, Illinois, US",-30.521136555353127
+"Bureau, Illinois, US",-6.882455994149205
+"Calhoun, Illinois, US",-10.771602811958958
+"Carroll, Illinois, US",-20.85539913659928
+"Cass, Illinois, US",-3.3223040604630336
+"Champaign, Illinois, US",28.104240959906075
+"Christian, Illinois, US",-10.43240861795332
+"Clark, Illinois, US",-15.653793349829902
+"Clay, Illinois, US",6.300263327523235
+"Clinton, Illinois, US",6.258401303829237
+"Coles, Illinois, US",9.822236907254592
+"Cook, Illinois, US",90.64554249868907
+"Crawford, Illinois, US",-14.699207015216556
+"Cumberland, Illinois, US",-13.622047822849133
+"De Witt, Illinois, US",-1.2791279552851316
+"DeKalb, Illinois, US",16.953975222170847
+"Douglas, Illinois, US",-13.978115104114922
+"DuPage, Illinois, US",58.604109258670036
+"Edgar, Illinois, US",-0.4015584952954264
+"Edwards, Illinois, US",-10.487374525824658
+"Effingham, Illinois, US",-2.9717895202808227
+"Fayette, Illinois, US",-12.232529122892398
+"Ford, Illinois, US",-20.464635234566934
+"Franklin, Illinois, US",-5.515799111786177
+"Fulton, Illinois, US",-6.104122849458812
+"Gallatin, Illinois, US",-11.123767601929766
+"Greene, Illinois, US",-11.654235116471659
+"Grundy, Illinois, US",1.5513760318079335
+"Hamilton, Illinois, US",-8.224372408235686
+"Hancock, Illinois, US",-14.956671793385711
+"Hardin, Illinois, US",-18.16334743401035
+"Henderson, Illinois, US",-31.583867206115134
+"Henry, Illinois, US",-0.9836006598910176
+"Iroquois, Illinois, US",-3.799169638477804
+"Jackson, Illinois, US",10.243027901726661
+"Jasper, Illinois, US",-15.688810519062633
+"Jefferson, Illinois, US",1.460231853225199
+"Jersey, Illinois, US",-13.109132995215202
+"Jo Daviess, Illinois, US",-15.656561111021968
+"Johnson, Illinois, US",-11.415012571469385
+"Kane, Illinois, US",52.61748615582095
+"Kankakee, Illinois, US",27.068804326286916
+"Kendall, Illinois, US",22.016526294192705
+"Knox, Illinois, US",7.618737849659522
+"LaSalle,Illinois,US",12.785622719352451
+"Lake, Illinois, US",57.931594947093
+"Lawrence, Illinois, US",6.735603841684479
+"Lee, Illinois, US",-3.7824572257055737
+"Livingston, Illinois, US",-10.585861279269835
+"Logan, Illinois, US",-5.652130502641392
+"Macon, Illinois, US",15.931681333412609
+"Macoupin, Illinois, US",-4.850528346493371
+"Madison, Illinois, US",33.62964044781072
+"Marion, Illinois, US",-1.8909963903737292
+"Marshall, Illinois, US",-23.45014056854548
+"Mason, Illinois, US",-19.859532307128
+"Massac, Illinois, US",-20.694045956143402
+"McDonough, Illinois, US",-0.13495163245018943
+"McHenry, Illinois, US",34.32499676508569
+"McLean, Illinois, US",15.867406729151003
+"Menard, Illinois, US",-20.731405416994168
+"Mercer, Illinois, US",-20.019087800349425
+"Monroe, Illinois, US",0.8210884869954338
+"Montgomery, Illinois, US",-8.589587177816313
+"Morgan, Illinois, US",-3.9193130540042493
+"Moultrie, Illinois, US",-14.35284007374837
+"Ogle, Illinois, US",7.544331971141196
+"Peoria, Illinois, US",21.973954300235185
+"Perry, Illinois, US",-4.390034043900966
+"Piatt, Illinois, US",-25.387134123079534
+"Pike, Illinois, US",5.627514881008497
+"Pope, Illinois, US",-18.79555270360048
+"Pulaski, Illinois, US",-19.974482484465153
+"Putnam, Illinois, US",-13.492981036124712
+"Randolph, Illinois, US",7.506464185144772
+"Richland, Illinois, US",6.86180873620184
+"Rock Island, Illinois, US",27.570306118627606
+"Saline, Illinois, US",-7.861681571735611
+"Sangamon, Illinois, US",20.476852187459663
+"Schuyler, Illinois, US",-28.791510667760903
+"Scott, Illinois, US",-9.967304341233255
+"Shelby, Illinois, US",-10.412031341828962
+"St. Clair, Illinois, US",37.00812439012218
+"Stark, Illinois, US",-13.662890130292489
+"Stephenson, Illinois, US",3.475346092981113
+"Tazewell, Illinois, US",11.823172542001526
+"Union, Illinois, US",1.2811077737019938
+"Vermilion, Illinois, US",0.3802714612249724
+"Wabash, Illinois, US",-7.576246681411315
+"Warren, Illinois, US",-2.8082362109669807
+"Washington, Illinois, US",-18.647892855775392
+"Wayne, Illinois, US",-9.665423492369518
+"White, Illinois, US",5.821364382563831
+"Whiteside, Illinois, US",5.3315558384646184
+"Will, Illinois, US",55.18835542156124
+"Williamson, Illinois, US",7.316797572313652
+"Winnebago, Illinois, US",39.20870969990999
+"Woodford, Illinois, US",-11.56813432780678
+"Adams, Indiana, US",-11.257737741489928
+"Allen, Indiana, US",40.1152212044747
+"Bartholomew, Indiana, US",12.144036086710475
+"Benton, Indiana, US",-22.210380040904614
+"Blackford, Indiana, US",-23.30249802832536
+"Boone, Indiana, US",9.894081341473523
+"Brown, Indiana, US",-26.150564294120652
+"Carroll,Indiana,US",-9.72839988513181
+"Cass, Indiana, US",26.08612465920989
+"Clark, Indiana, US",20.230865782614103
+"Clay, Indiana, US",-11.060115018325341
+"Clinton, Indiana, US",4.784593983611359
+"Crawford, Indiana, US",-29.36757383340762
+"Daviess, Indiana, US",-0.1973627373857114
+"DeKalb, Indiana, US",-2.4049417675234377
+"Dearborn, Indiana, US",3.927194331532641
+"Decatur, Indiana, US",-1.345038935652422
+"Delaware, Indiana, US",15.990244253398915
+"Dubois, Indiana, US",8.372457074615696
+"Elkhart, Indiana, US",39.05937764653713
+"Fayette, Indiana, US",-8.313805497181269
+"Floyd, Indiana, US",11.677346315944208
+"Fountain, Indiana, US",-16.693730437493322
+"Franklin, Indiana, US",-11.09004434827699
+"Fulton, Indiana, US",-9.511944113903905
+"Gibson, Indiana, US",-2.943715267143308
+"Grant, Indiana, US",7.007691319168487
+"Greene, Indiana, US",-3.446191949105782
+"Hamilton, Indiana, US",35.250549477709114
+"Hancock, Indiana, US",10.25028557186157
+"Harrison, Indiana, US",0.4591368989655383
+"Hendricks, Indiana, US",27.38229420060258
+"Henry, Indiana, US",5.585377650694167
+"Howard, Indiana, US",10.78541137193977
+"Huntington, Indiana, US",-12.073971763786348
+"Jackson, Indiana, US",8.335538997810213
+"Jasper, Indiana, US",-7.864191998921849
+"Jay, Indiana, US",-13.18968161565807
+"Jefferson, Indiana, US",-11.806913634556645
+"Jennings, Indiana, US",-8.302346152813508
+"Johnson, Indiana, US",26.590702976547703
+"Knox, Indiana, US",-7.5320902194261965
+"Kosciusko, Indiana, US",11.736431073745594
+"LaGrange, Indiana, US",1.5383829485893181
+"LaPorte, Indiana, US",17.577955505897382
+"Lake, Indiana, US",50.02715284368242
+"Lawrence, Indiana, US",0.73482382649406
+"Madison, Indiana, US",21.082338171155616
+"Marion, Indiana, US",61.98226329320528
+"Marshall, Indiana, US",9.401013064958274
+"Martin, Indiana, US",-27.834148495827037
+"Miami, Indiana, US",-1.181846374830117
+"Monroe, Indiana, US",15.019067235464734
+"Montgomery, Indiana, US",-0.39285789522023706
+"Morgan, Indiana, US",5.779551373388281
+"Newton, Indiana, US",-15.950868720271561
+"Noble, Indiana, US",9.416370876141318
+"Ohio, Indiana, US",-27.11290849533051
+"Orange, Indiana, US",-9.53033565947584
+"Owen, Indiana, US",-21.925599626432483
+"Parke, Indiana, US",-25.33562640256396
+"Perry, Indiana, US",-9.814680581364458
+"Pike, Indiana, US",-14.730572814688575
+"Porter, Indiana, US",23.534471535662263
+"Posey, Indiana, US",-14.073562669139255
+"Pulaski, Indiana, US",-17.127497486369112
+"Putnam, Indiana, US",-3.0484322223237967
+"Randolph, Indiana, US",-13.38795903475817
+"Ripley, Indiana, US",-7.556282908241772
+"Rush, Indiana, US",-19.779245726630897
+"Scott, Indiana, US",-5.695388577488053
+"Shelby, Indiana, US",6.480677972570449
+"Spencer, Indiana, US",-12.478791446590485
+"St. Joseph, Indiana, US",37.14818516708344
+"Starke, Indiana, US",-12.334742010634022
+"Steuben, Indiana, US",-4.555174569398018
+"Sullivan, Indiana, US",-12.066041851670821
+"Switzerland, Indiana, US",-33.34000336022139
+"Tippecanoe, Indiana, US",22.32191218404724
+"Tipton, Indiana, US",-21.308834697102217
+"Union, Indiana, US",-35.4520613303836
+"Vanderburgh, Indiana, US",25.504142510163856
+"Vermillion, Indiana, US",-23.216933243122796
+"Vigo, Indiana, US",13.64111012205234
+"Wabash, Indiana, US",-6.407053633680169
+"Warren, Indiana, US",-34.86746471410183
+"Warrick, Indiana, US",8.448047734252144
+"Washington, Indiana, US",-15.060572537335773
+"Wayne, Indiana, US",3.874111134151011
+"Wells, Indiana, US",-8.571579946717886
+"White, Indiana, US",3.304459557023136
+"Whitley, Indiana, US",-10.072858516996998
+"Adair, Iowa, US",-20.854127508437465
+"Adams, Iowa, US",-32.43699827146216
+"Allamakee, Iowa, US",-14.943766927689412
+"Appanoose, Iowa, US",-15.333380878663279
+"Audubon, Iowa, US",-28.422968591996213
+"Benton, Iowa, US",-11.855695408041292
+"Black Hawk, Iowa, US",34.57424968072361
+"Boone, Iowa, US",-0.7360915853860723
+"Bremer, Iowa, US",-1.157048088593576
+"Buchanan, Iowa, US",-14.897161803666416
+"Buena Vista, Iowa, US",27.30561879471457
+"Butler, Iowa, US",-9.74237878521581
+"Calhoun, Iowa, US",-0.6881437660890629
+"Carroll, Iowa, US",3.369195851462763
+"Cass, Iowa, US",-8.710751386660958
+"Cedar, Iowa, US",-15.807118470148104
+"Cerro Gordo, Iowa, US",0.25295145480203496
+"Cherokee, Iowa, US",-4.989246996982761
+"Chickasaw, Iowa, US",-15.314976195921199
+"Clarke, Iowa, US",-7.407980121245935
+"Clay, Iowa, US",-2.038102623983448
+"Clayton, Iowa, US",-15.429812824545241
+"Clinton, Iowa, US",2.9236263216441944
+"Crawford, Iowa, US",9.093374297197158
+"Dallas, Iowa, US",21.13376625178877
+"Davis, Iowa, US",-17.886172062327972
+"Decatur, Iowa, US",-16.86980387453905
+"Delaware, Iowa, US",-5.072104726845892
+"Des Moines, Iowa, US",2.6003151515382745
+"Dickinson, Iowa, US",1.0157523768627137
+"Dubuque, Iowa, US",21.186694935760443
+"Emmet, Iowa, US",-2.3351392813576806
+"Fayette, Iowa, US",-14.715466301920962
+"Floyd, Iowa, US",-3.7316846878673937
+"Franklin, Iowa, US",-6.8009161511754765
+"Fremont, Iowa, US",-11.08327512568222
+"Greene, Iowa, US",-21.648467147791717
+"Grundy, Iowa, US",-15.70232156363948
+"Guthrie, Iowa, US",-10.515922897175757
+"Hamilton, Iowa, US",-3.5615267936080017
+"Hancock, Iowa, US",-4.941518739101545
+"Hardin, Iowa, US",-7.154291319714555
+"Harrison, Iowa, US",-18.77223938911303
+"Henry, Iowa, US",-5.55342709343211
+"Howard, Iowa, US",-19.785791741447312
+"Humboldt, Iowa, US",-10.321153362688923
+"Ida, Iowa, US",-17.273955517677944
+"Iowa, Iowa, US",-19.036422192174456
+"Jackson, Iowa, US",-9.805242561455053
+"Jasper, Iowa, US",5.117514560745017
+"Jefferson, Iowa, US",-17.007079320329243
+"Johnson, Iowa, US",23.71158985825519
+"Jones, Iowa, US",-11.073165756301018
+"Keokuk, Iowa, US",-19.386404421441423
+"Kossuth, Iowa, US",-2.5038639945747425
+"Lee, Iowa, US",0.27956368063084536
+"Linn, Iowa, US",32.48074662962462
+"Louisa, Iowa, US",0.07468528156768146
+"Lucas, Iowa, US",-14.651892328601193
+"Lyon, Iowa, US",-12.839383974796549
+"Madison, Iowa, US",-11.666521280440124
+"Mahaska, Iowa, US",-5.951052496311993
+"Marion, Iowa, US",-0.14945731647161928
+"Marshall, Iowa, US",19.066765131808562
+"Mills, Iowa, US",-8.82337258129714
+"Mitchell, Iowa, US",-1.5734513243950694
+"Monona, Iowa, US",-26.58226535446623
+"Monroe, Iowa, US",-13.259824534562949
+"Montgomery, Iowa, US",-19.440449657750616
+"Muscatine, Iowa, US",12.079991332565614
+"O'Brien, Iowa, US",-4.19493211433623
+"Osceola, Iowa, US",-17.721659579673073
+"Page, Iowa, US",-15.038535484941098
+"Palo Alto, Iowa, US",-6.8534569109612145
+"Plymouth, Iowa, US",10.528948518559286
+"Pocahontas, Iowa, US",-6.736633968766021
+"Polk, Iowa, US",51.30793766273032
+"Pottawattamie, Iowa, US",18.902769532562697
+"Poweshiek, Iowa, US",-13.536005040896471
+"Ringgold, Iowa, US",-21.452198687118162
+"Sac, Iowa, US",-5.645199861546226
+"Scott, Iowa, US",25.662743506892156
+"Shelby, Iowa, US",-16.540826352730612
+"Sioux, Iowa, US",10.905620126789925
+"Story, Iowa, US",19.632300356294877
+"Tama, Iowa, US",4.937171783853049
+"Taylor, Iowa, US",-10.850986833847422
+"Union, Iowa, US",-8.777409160877683
+"Van Buren, Iowa, US",-34.10081568026101
+"Wapello, Iowa, US",15.605814629447742
+"Warren, Iowa, US",5.270448586555509
+"Washington, Iowa, US",-2.597288440608021
+"Wayne, Iowa, US",-18.597238888783522
+"Webster, Iowa, US",15.701238004655222
+"Winnebago, Iowa, US",-8.552177906199033
+"Winneshiek, Iowa, US",-15.401792841425868
+"Woodbury, Iowa, US",39.267909648315865
+"Worth, Iowa, US",-9.728924776512148
+"Wright, Iowa, US",7.791630133983913
+"Allen, Kansas, US",-7.305843441583571
+"Anderson, Kansas, US",-7.174149824456878
+"Atchison, Kansas, US",-13.43107922721912
+"Barber, Kansas, US",-8.654304961075603
+"Barton, Kansas, US",-5.655433401138212
+"Bourbon, Kansas, US",-26.31181353363059
+"Brown, Kansas, US",-13.6065810249185
+"Butler, Kansas, US",-2.464007376364158
+"Chase, Kansas, US",-18.56949783684701
+"Chautauqua, Kansas, US",-28.159330207181718
+"Cherokee, Kansas, US",-16.54252986546941
+"Cheyenne, Kansas, US",-6.287755207717874
+"Clark, Kansas, US",-32.185067622205366
+"Clay, Kansas, US",-24.20902852025556
+"Cloud, Kansas, US",-15.215440478939065
+"Coffey, Kansas, US",-26.399662566176104
+"Comanche, Kansas, US",-28.949136945124565
+"Cowley, Kansas, US",10.173800813523327
+"Crawford, Kansas, US",0.4560728651424121
+"Decatur, Kansas, US",-24.881134009518636
+"Dickinson, Kansas, US",-4.258088497522714
+"Doniphan, Kansas, US",-18.6022919905931
+"Douglas, Kansas, US",8.631460249967533
+"Edwards, Kansas, US",-36.35066120363838
+"Elk, Kansas, US",-9.484840726633104
+"Ellis, Kansas, US",-3.1404026351899224
+"Ellsworth, Kansas, US",-4.446076490440094
+"Finney, Kansas, US",26.158297741668356
+"Ford, Kansas, US",31.179040423823785
+"Franklin, Kansas, US",-13.89468158541518
+"Geary, Kansas, US",-12.132185509865495
+"Gove, Kansas, US",-9.180505147601579
+"Graham, Kansas, US",-22.64247986098073
+"Grant, Kansas, US",-11.807644860958465
+"Gray, Kansas, US",-20.610935583220336
+"Greeley, Kansas, US",-23.97893402866447
+"Greenwood, Kansas, US",-24.466337246840443
+"Hamilton, Kansas, US",-33.55552226947555
+"Harper, Kansas, US",-3.0328960171167174
+"Harvey, Kansas, US",-8.870774911390258
+"Haskell, Kansas, US",-27.893338992714554
+"Hodgeman, Kansas, US",-37.7862253630374
+"Jackson, Kansas, US",-3.164708159720127
+"Jefferson, Kansas, US",-21.37241120302608
+"Jewell, Kansas, US",-27.71895694076994
+"Johnson, Kansas, US",39.5407856892798
+"Kearny, Kansas, US",-22.28807821571726
+"Kingman, Kansas, US",-5.466418913257081
+"Kiowa, Kansas, US",-25.010105574799777
+"Labette, Kansas, US",-14.559705450771297
+"Lane, Kansas, US",-41.457953748864696
+"Leavenworth, Kansas, US",20.021757273236833
+"Lincoln, Kansas, US",-25.402315432702878
+"Linn, Kansas, US",-38.51550170030714
+"Logan, Kansas, US",-11.188134375524674
+"Lyon, Kansas, US",10.261638935344239
+"Marion, Kansas, US",-31.187349823075795
+"Marshall, Kansas, US",-8.60124584067807
+"McPherson, Kansas, US",-12.820885960432035
+"Meade, Kansas, US",-24.30125248335333
+"Miami, Kansas, US",-9.46938773444808
+"Mitchell, Kansas, US",-11.20106006582762
+"Montgomery, Kansas, US",-13.506132458112557
+"Morris, Kansas, US",-30.300748689515817
+"Morton, Kansas, US",-37.080584138402976
+"Nemaha, Kansas, US",-8.029833948451367
+"Neosho, Kansas, US",0.0328289057666854
+"Ness, Kansas, US",-15.12827408434219
+"Norton, Kansas, US",-5.545609799746298
+"Osage, Kansas, US",-25.758533357804843
+"Osborne, Kansas, US",-10.872396736095528
+"Ottawa, Kansas, US",-13.557447719072401
+"Pawnee, Kansas, US",11.07165616733707
+"Phillips, Kansas, US",-6.431421732436857
+"Pottawatomie, Kansas, US",-17.097430125923328
+"Pratt, Kansas, US",-10.350744809042222
+"Rawlins, Kansas, US",0.5767026926012496
+"Reno, Kansas, US",1.6670552524480466
+"Republic, Kansas, US",-12.170399691602391
+"Rice, Kansas, US",-1.8095931454434666
+"Riley, Kansas, US",7.7886436747951375
+"Rooks, Kansas, US",-33.09368993752482
+"Rush, Kansas, US",-11.515051635687104
+"Russell, Kansas, US",-1.1516325677948205
+"Saline, Kansas, US",-1.1833189527015602
+"Scott, Kansas, US",-22.069902506724677
+"Sedgwick, Kansas, US",40.94166268488314
+"Seward, Kansas, US",22.126215096965183
+"Shawnee, Kansas, US",22.486221092757905
+"Sheridan, Kansas, US",-22.639445833371752
+"Sherman, Kansas, US",-31.056529806520995
+"Smith, Kansas, US",-12.920919302193974
+"Stafford, Kansas, US",-12.88924641376478
+"Stanton, Kansas, US",-39.86069218943848
+"Stevens, Kansas, US",-23.815367982151436
+"Sumner, Kansas, US",-8.840987032974956
+"Thomas, Kansas, US",-4.2118587114001445
+"Trego, Kansas, US",-15.914138138331085
+"Wabaunsee, Kansas, US",-26.932446717261364
+"Wallace, Kansas, US",-15.116235368408164
+"Washington, Kansas, US",-4.448979718542267
+"Wichita, Kansas, US",-12.407324020603182
+"Wilson, Kansas, US",-3.2989485608141482
+"Woodson, Kansas, US",-52.25172449256986
+"Wyandotte, Kansas, US",36.68717447354642
+"Adair, Kentucky, US",-7.54134853796984
+"Allen, Kentucky, US",-4.806821517483451
+"Anderson, Kentucky, US",-20.86916472761816
+"Ballard, Kentucky, US",-36.77926379318957
+"Barren, Kentucky, US",0.19303739265139286
+"Bath, Kentucky, US",-24.980442695581175
+"Bell, Kentucky, US",16.678964507354717
+"Boone, Kentucky, US",17.11345939091799
+"Bourbon, Kentucky, US",-20.292021178892888
+"Boyd, Kentucky, US",-6.563792501760617
+"Boyle, Kentucky, US",-14.583926906259585
+"Bracken, Kentucky, US",-39.84368274908729
+"Breathitt, Kentucky, US",-8.231747068148016
+"Breckinridge, Kentucky, US",-23.834169928014393
+"Bullitt, Kentucky, US",3.56347205822426
+"Butler, Kentucky, US",-4.339039235365996
+"Caldwell, Kentucky, US",-25.476816929550523
+"Calloway, Kentucky, US",-4.481493596455436
+"Campbell, Kentucky, US",7.311723499057637
+"Carlisle, Kentucky, US",-27.58227912513598
+"Carroll, Kentucky, US",-10.483253360484879
+"Carter, Kentucky, US",-13.464996617871165
+"Casey, Kentucky, US",-2.4352446298764088
+"Christian, Kentucky, US",7.006527755661262
+"Clark, Kentucky, US",-13.76840833816084
+"Clay, Kentucky, US",3.567612766411915
+"Clinton, Kentucky, US",-11.676069482392025
+"Crittenden, Kentucky, US",-24.02727257517135
+"Cumberland, Kentucky, US",-32.277142189391284
+"Daviess, Kentucky, US",12.265777560498316
+"Edmonson, Kentucky, US",-23.37090543090309
+"Elliott, Kentucky, US",-7.183766314587509
+"Estill, Kentucky, US",-2.528057874770684
+"Fayette, Kentucky, US",31.675645116719544
+"Fleming, Kentucky, US",-7.02286472206697
+"Floyd, Kentucky, US",-10.674461001937136
+"Franklin, Kentucky, US",-7.193296685048773
+"Fulton, Kentucky, US",-17.097997079417475
+"Gallatin, Kentucky, US",-16.149603489775764
+"Garrard, Kentucky, US",-7.540210876497346
+"Grant, Kentucky, US",-15.664029681239615
+"Graves, Kentucky, US",5.8829986591776535
+"Grayson, Kentucky, US",-4.475319776901624
+"Green, Kentucky, US",1.5093240772860903
+"Greenup, Kentucky, US",-11.666759325153846
+"Hancock, Kentucky, US",-31.63823428065311
+"Hardin, Kentucky, US",7.46312090309545
+"Harlan, Kentucky, US",8.558089056352369
+"Harrison, Kentucky, US",-28.776742682437078
+"Hart, Kentucky, US",-9.692510905220676
+"Henderson, Kentucky, US",0.7852906147158187
+"Henry, Kentucky, US",-16.323549141324005
+"Hickman, Kentucky, US",-35.21762518562341
+"Hopkins, Kentucky, US",3.8731755202585165
+"Jackson, Kentucky, US",-10.262416371035783
+"Jefferson, Kentucky, US",49.570453209686676
+"Jessamine, Kentucky, US",-3.8506968059454674
+"Johnson, Kentucky, US",-15.350532943207313
+"Kenton, Kentucky, US",20.111855549695367
+"Knott, Kentucky, US",-2.8160589410395693
+"Knox, Kentucky, US",-7.465992098266638
+"Larue, Kentucky, US",-25.193707237262295
+"Laurel, Kentucky, US",1.2233535035281167
+"Lawrence, Kentucky, US",-13.094275203516707
+"Lee, Kentucky, US",-7.668958706193644
+"Leslie, Kentucky, US",-28.26197950307781
+"Letcher, Kentucky, US",-1.1896911500635585
+"Lewis, Kentucky, US",-16.562095876309087
+"Lincoln, Kentucky, US",-13.344295574089811
+"Livingston, Kentucky, US",-28.4676022128955
+"Logan, Kentucky, US",-1.7389495142371987
+"Lyon, Kentucky, US",-36.185462340879845
+"Madison, Kentucky, US",5.488827486027399
+"Magoffin, Kentucky, US",-8.753369614431588
+"Marion, Kentucky, US",-13.273864568897721
+"Marshall, Kentucky, US",-12.253518970000359
+"Martin, Kentucky, US",-7.800806009651924
+"Mason, Kentucky, US",-26.155364364209376
+"McCracken, Kentucky, US",1.7664256008007535
+"McCreary, Kentucky, US",-25.20428098642529
+"McLean, Kentucky, US",-29.0551211199555
+"Meade, Kentucky, US",-13.899902137685533
+"Menifee, Kentucky, US",-31.88107958370842
+"Mercer, Kentucky, US",-19.316508627676352
+"Metcalfe, Kentucky, US",-14.823933419990775
+"Monroe, Kentucky, US",-13.891709470258174
+"Montgomery, Kentucky, US",-16.34991393661009
+"Morgan, Kentucky, US",-8.57828021174804
+"Muhlenberg, Kentucky, US",8.54682824461896
+"Nelson, Kentucky, US",-3.0501371244854565
+"Nicholas, Kentucky, US",-22.19056129277603
+"Ohio, Kentucky, US",-2.2378466421007306
+"Oldham, Kentucky, US",3.3497306687578554
+"Owen, Kentucky, US",-13.274223382706213
+"Owsley, Kentucky, US",-14.236957055239724
+"Pendleton, Kentucky, US",-30.209427701108034
+"Perry, Kentucky, US",-6.309080391294022
+"Pike, Kentucky, US",-2.5158447238144777
+"Powell, Kentucky, US",-7.836227058770452
+"Pulaski, Kentucky, US",-2.757460939905486
+"Robertson, Kentucky, US",-17.370089254430003
+"Rockcastle, Kentucky, US",-23.467783867815992
+"Rowan, Kentucky, US",-9.791913020255766
+"Russell, Kentucky, US",-16.248644822067646
+"Scott, Kentucky, US",-4.859168740698734
+"Shelby, Kentucky, US",7.503541810233516
+"Simpson, Kentucky, US",-15.827536197870346
+"Spencer, Kentucky, US",-18.487829082717553
+"Taylor, Kentucky, US",-10.064435168253453
+"Todd, Kentucky, US",-24.5262161688628
+"Trigg, Kentucky, US",-22.021624586200325
+"Trimble, Kentucky, US",-15.754327088625013
+"Union, Kentucky, US",-19.764550248163193
+"Warren, Kentucky, US",28.717167261078046
+"Washington, Kentucky, US",-20.54298897562863
+"Wayne, Kentucky, US",-22.976068618206114
+"Webster, Kentucky, US",-19.775170417556712
+"Whitley, Kentucky, US",-8.901152465333366
+"Wolfe, Kentucky, US",-15.877335039393364
+"Woodford, Kentucky, US",-16.899636219242673
+"Acadia, Louisiana, US",21.079482043624417
+"Allen, Louisiana, US",8.075241743560703
+"Ascension, Louisiana, US",27.98922159751169
+"Assumption, Louisiana, US",1.4684966614808883
+"Avoyelles, Louisiana, US",6.657037801288222
+"Beauregard, Louisiana, US",0.7450551156908037
+"Bienville, Louisiana, US",-5.407366332017879
+"Bossier, Louisiana, US",23.24356399313631
+"Caddo, Louisiana, US",42.77904587652182
+"Calcasieu, Louisiana, US",36.428055860354156
+"Caldwell, Louisiana, US",-13.167659880467342
+"Cameron, Louisiana, US",-10.865064544610801
+"Catahoula, Louisiana, US",-9.292757559525205
+"Claiborne, Louisiana, US",-9.02261800596352
+"Concordia, Louisiana, US",-7.412767344443934
+"De Soto, Louisiana, US",3.3875900684114195
+"East Baton Rouge, Louisiana, US",51.089028881584554
+"East Carroll, Louisiana, US",-0.07627085420207168
+"East Feliciana, Louisiana, US",7.131534421966777
+"Evangeline, Louisiana, US",4.184663303754906
+"Franklin, Louisiana, US",8.328931831957798
+"Grant, Louisiana, US",-11.206623635039882
+"Iberia, Louisiana, US",21.849194468708234
+"Iberville, Louisiana, US",13.207360087087425
+"Jackson, Louisiana, US",-2.0401437035270287
+"Jefferson, Louisiana, US",57.06110305257466
+"Jefferson Davis, Louisiana, US",5.4867467403120465
+"LaSalle,Louisiana,US",-9.728644313893957
+"Lafayette, Louisiana, US",37.9286416200029
+"Lafourche, Louisiana, US",26.029503881344066
+"Lincoln, Louisiana, US",6.917063553438946
+"Livingston, Louisiana, US",24.537242963860336
+"Madison, Louisiana, US",3.94914196310056
+"Morehouse, Louisiana, US",1.0480913910598488
+"Natchitoches, Louisiana, US",7.7200005803598595
+"Orleans, Louisiana, US",51.72574930197839
+"Ouachita, Louisiana, US",36.91960320838675
+"Plaquemines, Louisiana, US",0.04118580165322765
+"Pointe Coupee, Louisiana, US",4.6287929623275
+"Rapides, Louisiana, US",28.14403783294516
+"Red River, Louisiana, US",-13.754063957522318
+"Richland, Louisiana, US",1.2166385948441811
+"Sabine, Louisiana, US",-2.344269823238074
+"St. Bernard, Louisiana, US",11.95769374567884
+"St. Charles, Louisiana, US",16.57260768394953
+"St. Helena, Louisiana, US",-13.182227261202911
+"St. James, Louisiana, US",2.739786600985964
+"St. John the Baptist, Louisiana, US",16.196117181250656
+"St. Landry, Louisiana, US",21.83276976591361
+"St. Martin, Louisiana, US",16.760776694745793
+"St. Mary, Louisiana, US",13.46257986554631
+"St. Tammany, Louisiana, US",37.62670130411867
+"Tangipahoa, Louisiana, US",30.864673952939057
+"Tensas, Louisiana, US",-23.811379589392118
+"Terrebonne, Louisiana, US",24.509312049763313
+"Union, Louisiana, US",4.895253681457507
+"Vermilion, Louisiana, US",8.95711817929755
+"Vernon, Louisiana, US",-2.292474656589991
+"Washington, Louisiana, US",14.223135339322374
+"Webster, Louisiana, US",6.395524205213918
+"West Baton Rouge, Louisiana, US",0.9048060251633375
+"West Carroll, Louisiana, US",-2.3335955467373686
+"West Feliciana, Louisiana, US",-2.133932478218534
+"Winn, Louisiana, US",-1.8685203786366533
+"Androscoggin, Maine, US",2.404590129666393
+"Aroostook, Maine, US",-31.62326694795725
+"Cumberland, Maine, US",23.051235466435
+"Franklin, Maine, US",-31.85963955605903
+"Hancock, Maine, US",-35.59331160766566
+"Kennebec, Maine, US",-11.430571993921815
+"Knox, Maine, US",-39.35864881744052
+"Lincoln, Maine, US",-42.94186490017502
+"Oxford, Maine, US",-29.543472151959545
+"Penobscot, Maine, US",-11.793689642784544
+"Piscataquis, Maine, US",-24.933844039438675
+"Sagadahoc, Maine, US",-35.6359765342345
+"Somerset, Maine, US",-27.982276153480232
+"Waldo, Maine, US",-27.654208504267714
+"Washington, Maine, US",-16.065083184283292
+"York, Maine, US",9.749299136553667
+"Allegany, Maryland, US",4.493495404534185
+"Anne Arundel, Maryland, US",46.638608129695825
+"Baltimore, Maryland, US",55.195724660995154
+"Baltimore City, Maryland, US",53.5366535693833
+"Calvert, Maryland, US",6.007692773301936
+"Caroline, Maryland, US",0.8693257525398403
+"Carroll, Maryland, US",20.299875582355423
+"Cecil, Maryland, US",9.454892938294085
+"Charles, Maryland, US",24.327080877932968
+"Dorchester, Maryland, US",-1.0300680631606576
+"Frederick, Maryland, US",34.221533247993214
+"Garrett, Maryland, US",-16.63205839007015
+"Harford, Maryland, US",23.603225664519346
+"Howard, Maryland, US",33.75395919568684
+"Kent, Maryland, US",-11.215852308089596
+"Montgomery, Maryland, US",58.297322712286125
+"Prince George's, Maryland, US",63.387567808862705
+"Queen Anne's, Maryland, US",-1.3413210534032682
+"Somerset, Maryland, US",-8.725262945523488
+"St. Mary's, Maryland, US",12.148045442809646
+"Talbot, Maryland, US",-6.292684545018706
+"Washington, Maryland, US",18.071290848314927
+"Wicomico, Maryland, US",19.2278423698237
+"Worcester, Maryland, US",4.747264048102622
+"Barnstable, Massachusetts, US",20.981316723143593
+"Berkshire, Massachusetts, US",3.6425270230393196
+"Bristol, Massachusetts, US",51.344001455508035
+"Essex, Massachusetts, US",62.18316260199413
+"Franklin, Massachusetts, US",-3.68727237384379
+"Hampden, Massachusetts, US",48.607519853371144
+"Hampshire, Massachusetts, US",14.514537729354364
+"Middlesex, Massachusetts, US",65.18568187574823
+"Norfolk, Massachusetts, US",48.43099120163683
+"Plymouth, Massachusetts, US",50.53228639887438
+"Suffolk, Massachusetts, US",62.47375315956609
+"Worcester, Massachusetts, US",55.72914337240187
+"Alcona, Michigan, US",-36.41548844684325
+"Alger, Michigan, US",-16.872442017802204
+"Allegan, Michigan, US",10.029800388435811
+"Alpena, Michigan, US",-10.945570629068929
+"Antrim, Michigan, US",-34.05635181783567
+"Arenac, Michigan, US",-27.246127005627297
+"Baraga, Michigan, US",-19.612600347050567
+"Barry, Michigan, US",-5.438053879692933
+"Bay, Michigan, US",10.74429619622456
+"Benzie, Michigan, US",-14.363616622641814
+"Berrien, Michigan, US",20.44400473031077
+"Branch, Michigan, US",2.2592805294100153
+"Calhoun, Michigan, US",16.789568337649442
+"Cass, Michigan, US",-1.9377626749397892
+"Charlevoix, Michigan, US",-28.343206351071274
+"Cheboygan, Michigan, US",-28.269561875184717
+"Chippewa, Michigan, US",2.6332783543104394
+"Clare, Michigan, US",-19.862619644013556
+"Clinton, Michigan, US",3.35395213559166
+"Crawford, Michigan, US",-22.488602256832394
+"Delta, Michigan, US",-11.605130511605914
+"Dickinson, Michigan, US",-9.022680124285104
+"Eaton, Michigan, US",6.641816581421796
+"Emmet, Michigan, US",-21.88096634102192
+"Genesee, Michigan, US",40.14504045095997
+"Gladwin, Michigan, US",-22.07275381812539
+"Gogebic, Michigan, US",-11.067394542435109
+"Grand Traverse, Michigan, US",-9.455537640589228
+"Gratiot, Michigan, US",-8.355172995113305
+"Hillsdale, Michigan, US",-3.4273611153134254
+"Houghton, Michigan, US",1.3338598989723816
+"Huron, Michigan, US",-15.270913766778833
+"Ingham, Michigan, US",24.843764232678726
+"Ionia, Michigan, US",-0.6202185614319318
+"Iosco, Michigan, US",-12.932014460628482
+"Iron, Michigan, US",-7.26285408581953
+"Isabella, Michigan, US",-0.33632196861763686
+"Jackson, Michigan, US",15.45315062660553
+"Kalamazoo, Michigan, US",27.508083949850562
+"Kalkaska, Michigan, US",-30.773483541602058
+"Kent, Michigan, US",47.57126255190626
+"Keweenaw, Michigan, US",-17.58410822007015
+"Lake, Michigan, US",-30.854579191509973
+"Lapeer, Michigan, US",5.975164239602239
+"Leelanau, Michigan, US",-27.233653084923912
+"Lenawee, Michigan, US",4.519718948262728
+"Livingston, Michigan, US",16.90224206600754
+"Luce, Michigan, US",-12.628545180988153
+"Mackinac, Michigan, US",-34.87699709504926
+"Macomb, Michigan, US",57.08312015465995
+"Manistee, Michigan, US",-33.24165797539549
+"Marquette, Michigan, US",-4.398042146043797
+"Mason, Michigan, US",-17.484758954782688
+"Mecosta, Michigan, US",-17.84309296345235
+"Menominee, Michigan, US",-8.71756693869435
+"Midland, Michigan, US",-1.5849285125482957
+"Missaukee, Michigan, US",-29.278001943845332
+"Monroe, Michigan, US",17.319635457839368
+"Montcalm, Michigan, US",-6.692217343161245
+"Montmorency, Michigan, US",-47.737862268553656
+"Muskegon, Michigan, US",20.93203092534876
+"Newaygo, Michigan, US",-3.041107630441738
+"Oakland, Michigan, US",62.32801000736036
+"Oceana, Michigan, US",3.2093511264785337
+"Ogemaw, Michigan, US",-26.01202561111342
+"Ontonagon, Michigan, US",-15.098599451406269
+"Osceola, Michigan, US",-27.23327658515441
+"Oscoda, Michigan, US",-36.406910621465045
+"Otsego, Michigan, US",-15.856486511108912
+"Ottawa, Michigan, US",28.395915198293388
+"Presque Isle, Michigan, US",-36.64606631220252
+"Roscommon, Michigan, US",-26.0159409844965
+"Saginaw, Michigan, US",29.217678730813915
+"Sanilac, Michigan, US",-19.541672768532294
+"Schoolcraft, Michigan, US",-26.016988834700868
+"Shiawassee, Michigan, US",2.4312397098043492
+"St. Clair, Michigan, US",13.606816830553196
+"St. Joseph, Michigan, US",4.799543982667472
+"Tuscola, Michigan, US",0.23695225176789383
+"Van Buren, Michigan, US",3.801808877109496
+"Washtenaw, Michigan, US",31.39400584500619
+"Wayne, Michigan, US",72.41923564530416
+"Wexford, Michigan, US",-26.09499946478361
+"Aitkin, Minnesota, US",-13.355433960606527
+"Anoka, Minnesota, US",35.09897923742859
+"Becker, Minnesota, US",-0.054924725700506834
+"Beltrami, Minnesota, US",-10.864781644482711
+"Benton, Minnesota, US",11.895266905854065
+"Big Stone, Minnesota, US",-21.09626693856727
+"Blue Earth, Minnesota, US",7.7670950915978345
+"Brown, Minnesota, US",-18.637927759583672
+"Carlton, Minnesota, US",-8.005096203405492
+"Carver, Minnesota, US",7.410586072083184
+"Cass, Minnesota, US",-14.71325925317436
+"Chippewa, Minnesota, US",-5.560640108046448
+"Chisago, Minnesota, US",-2.2401977608930537
+"Clay, Minnesota, US",16.18110839189378
+"Clearwater, Minnesota, US",-16.920764105788653
+"Cook, Minnesota, US",-36.10528501118103
+"Cottonwood, Minnesota, US",-14.579010579320707
+"Crow Wing, Minnesota, US",-1.023935431893354
+"Dakota, Minnesota, US",35.3307459496434
+"Dodge, Minnesota, US",-18.11864413739373
+"Douglas, Minnesota, US",3.5904255820569277
+"Faribault, Minnesota, US",-15.675673836419696
+"Fillmore,Minnesota,US",-26.939903754348368
+"Freeborn, Minnesota, US",-1.7780757623284766
+"Goodhue, Minnesota, US",-5.898087271558574
+"Grant, Minnesota, US",-18.31164724731847
+"Hennepin, Minnesota, US",60.750899248227014
+"Houston, Minnesota, US",-3.5215223496467445
+"Hubbard, Minnesota, US",-5.141540202085398
+"Isanti, Minnesota, US",-6.22837476473289
+"Itasca, Minnesota, US",1.098775424616482
+"Jackson, Minnesota, US",-17.463821167033984
+"Kanabec, Minnesota, US",-18.58748610029808
+"Kandiyohi, Minnesota, US",21.81364327505283
+"Kittson, Minnesota, US",-6.469434600241621
+"Koochiching, Minnesota, US",-16.325925202068003
+"Lac qui Parle,Minnesota,US",-9.578962126727806
+"Lake, Minnesota, US",-13.16291313940783
+"Lake of the Woods, Minnesota, US",-18.934120256801695
+"Le Sueur, Minnesota, US",-11.203102734704686
+"Lincoln, Minnesota, US",-19.620519730293196
+"Lyon, Minnesota, US",1.5765196542100648
+"Mahnomen, Minnesota, US",-29.154839074373346
+"Marshall, Minnesota, US",-25.88338444705289
+"Martin, Minnesota, US",-9.544524856045852
+"McLeod, Minnesota, US",4.512476977622695
+"Meeker, Minnesota, US",-7.8330028318880105
+"Mille Lacs, Minnesota, US",-6.340283449828789
+"Morrison, Minnesota, US",-0.6356163869185317
+"Mower, Minnesota, US",7.118496207595737
+"Murray, Minnesota, US",-14.381505763864379
+"Nicollet, Minnesota, US",-3.287144615606854
+"Nobles, Minnesota, US",27.608603486038778
+"Norman, Minnesota, US",-31.44125367623969
+"Olmsted, Minnesota, US",20.837808892082027
+"Otter Tail, Minnesota, US",2.4570180471596403
+"Pennington, Minnesota, US",-9.028992427409792
+"Pine, Minnesota, US",-5.089222807043802
+"Pipestone, Minnesota, US",-10.593117554302019
+"Polk, Minnesota, US",0.5988028060391356
+"Pope, Minnesota, US",-21.761430897122413
+"Ramsey, Minnesota, US",42.75730550483616
+"Red Lake, Minnesota, US",-17.459041882518576
+"Redwood, Minnesota, US",-6.572535959617368
+"Renville, Minnesota, US",-15.443560410110644
+"Rice, Minnesota, US",19.22938883031501
+"Rock, Minnesota, US",-16.875164453794557
+"Roseau, Minnesota, US",-1.0307446071228012
+"Scott, Minnesota, US",18.6567390883276
+"Sherburne, Minnesota, US",10.046129866682367
+"Sibley, Minnesota, US",-8.356595680382783
+"St. Louis, Minnesota, US",11.825084087659226
+"Stearns, Minnesota, US",31.19214738326309
+"Steele, Minnesota, US",-5.124550068449577
+"Stevens, Minnesota, US",-5.40350003133544
+"Swift, Minnesota, US",-16.218101564958268
+"Todd, Minnesota, US",9.728922625696937
+"Traverse, Minnesota, US",-32.04555652574893
+"Wabasha, Minnesota, US",-21.962986248772204
+"Wadena, Minnesota, US",-15.097738871134856
+"Waseca, Minnesota, US",-1.08132396275487
+"Washington, Minnesota, US",27.9267823647162
+"Watonwan, Minnesota, US",-2.429429525724858
+"Wilkin, Minnesota, US",-32.789094476766905
+"Winona, Minnesota, US",0.5661451390176567
+"Wright, Minnesota, US",14.826023047371631
+"Yellow Medicine, Minnesota, US",-11.826545726321564
+"Adams, Mississippi, US",2.5704162352688926
+"Alcorn, Mississippi, US",-7.262278876653551
+"Amite, Mississippi, US",-14.099233008781251
+"Attala, Mississippi, US",6.773454622725889e-4
+"Benton, Mississippi, US",-23.775224776463595
+"Bolivar, Mississippi, US",9.621927350398561
+"Calhoun, Mississippi, US",-6.054090468508628
+"Carroll, Mississippi, US",-9.861550131807231
+"Chickasaw, Mississippi, US",-3.5178423037946467
+"Choctaw, Mississippi, US",-24.77553976334715
+"Claiborne, Mississippi, US",-6.971757428140222
+"Clarke, Mississippi, US",-3.609368375821984
+"Clay, Mississippi, US",-4.303182086671025
+"Coahoma, Mississippi, US",-0.37061718150045603
+"Copiah, Mississippi, US",5.9991413979932
+"Covington, Mississippi, US",3.0166232137129394
+"DeSoto, Mississippi, US",31.191914330517516
+"Forrest, Mississippi, US",18.304962146816706
+"Franklin, Mississippi, US",-23.462665593142006
+"George, Mississippi, US",-5.967441063235547
+"Greene, Mississippi, US",-8.08388062506904
+"Grenada, Mississippi, US",4.049561087208095
+"Hancock, Mississippi, US",-5.248318659056555
+"Harrison, Mississippi, US",22.62908983183057
+"Hinds, Mississippi, US",34.165456877894805
+"Holmes, Mississippi, US",4.182742575096902
+"Humphreys, Mississippi, US",-12.036170566388407
+"Issaquena, Mississippi, US",-23.88783999865968
+"Itawamba, Mississippi, US",0.6633797569670146
+"Jackson, Mississippi, US",22.59477851336409
+"Jasper, Mississippi, US",-1.0832241633361914
+"Jefferson, Mississippi, US",-15.815954488535425
+"Jefferson Davis, Mississippi, US",-11.496993008137883
+"Jones, Mississippi, US",20.57339353090191
+"Kemper, Mississippi, US",-11.745284576605266
+"Lafayette, Mississippi, US",9.10599209278543
+"Lamar, Mississippi, US",13.71949376041407
+"Lauderdale, Mississippi, US",20.372579780738334
+"Lawrence, Mississippi, US",-7.717739390431569
+"Leake, Mississippi, US",7.2157683515253614
+"Lee, Mississippi, US",15.194840038026772
+"Leflore, Mississippi, US",6.845872090679002
+"Lincoln, Mississippi, US",7.138690733936039
+"Lowndes, Mississippi, US",7.969807766852453
+"Madison, Mississippi, US",23.883240218969316
+"Marion, Mississippi, US",0.5558508100649692
+"Marshall, Mississippi, US",2.1438332288528468
+"Monroe, Mississippi, US",8.651712436336386
+"Montgomery, Mississippi, US",-10.82016220508606
+"Neshoba, Mississippi, US",16.514177923447576
+"Newton, Mississippi, US",2.536211756218704
+"Noxubee, Mississippi, US",-4.474822158251254
+"Oktibbeha, Mississippi, US",8.695066505099096
+"Panola, Mississippi, US",5.783677848999669
+"Pearl River, Mississippi, US",1.7054419377999817
+"Perry, Mississippi, US",-13.854412201451389
+"Pike, Mississippi, US",5.762883838643945
+"Pontotoc, Mississippi, US",2.322583538688363
+"Prentiss, Mississippi, US",-2.9039021514828067
+"Quitman, Mississippi, US",-17.071245761683045
+"Rankin, Mississippi, US",22.639867288300145
+"Scott, Mississippi, US",10.70589670553313
+"Sharkey, Mississippi, US",-21.36317463294158
+"Simpson, Mississippi, US",2.87300912028734
+"Smith, Mississippi, US",-4.725545987759591
+"Stone, Mississippi, US",-12.346227592435353
+"Sunflower, Mississippi, US",4.801512157687501
+"Tallahatchie, Mississippi, US",-3.9940653848312446
+"Tate, Mississippi, US",0.5948094574393896
+"Tippah, Mississippi, US",-5.809879037188602
+"Tishomingo, Mississippi, US",-2.403008152619387
+"Tunica, Mississippi, US",-13.711015181340535
+"Union, Mississippi, US",1.8284941392396106
+"Walthall, Mississippi, US",-8.439007458606586
+"Warren, Mississippi, US",10.002138815117304
+"Washington, Mississippi, US",12.807697404828234
+"Wayne, Mississippi, US",2.994038789842687
+"Webster, Mississippi, US",-15.808249776483754
+"Wilkinson, Mississippi, US",-17.09940570712599
+"Winston, Mississippi, US",-0.7583817726599197
+"Yalobusha, Mississippi, US",-9.950138820008092
+"Yazoo, Mississippi, US",6.9138706464995545
+"Adair, Missouri, US",-12.445414019080077
+"Andrew, Missouri, US",-9.64999719492451
+"Atchison, Missouri, US",-20.14805651382203
+"Audrain, Missouri, US",5.752507145289899
+"Barry, Missouri, US",-6.032897271800317
+"Barton, Missouri, US",-3.4697769503149307
+"Bates, Missouri, US",-28.88395477072819
+"Benton, Missouri, US",-12.917593875384833
+"Bollinger, Missouri, US",-8.624489390242996
+"Boone, Missouri, US",20.160117755232523
+"Buchanan, Missouri, US",19.687390370115278
+"Butler, Missouri, US",-2.281294576258458
+"Caldwell, Missouri, US",-21.188909810278183
+"Callaway, Missouri, US",-7.120648415978173
+"Camden, Missouri, US",-2.600504001559462
+"Cape Girardeau, Missouri, US",8.433017127977823
+"Carroll, Missouri, US",-16.13054055243307
+"Carter, Missouri, US",-26.41840829977997
+"Cass, Missouri, US",4.199336036312631
+"Cedar, Missouri, US",-32.9877785741999
+"Chariton, Missouri, US",-39.14242604672237
+"Christian, Missouri, US",-0.7043935258970938
+"Clark, Missouri, US",-9.190610425059047
+"Clay, Missouri, US",13.23454931924992
+"Clinton, Missouri, US",-21.2425525965529
+"Cole, Missouri, US",4.726602499977408
+"Cooper, Missouri, US",-12.574185349236872
+"Crawford, Missouri, US",-16.28024982557982
+"Dade, Missouri, US",-11.187409804116651
+"Dallas, Missouri, US",-8.056079620181865
+"Daviess, Missouri, US",-19.60895401843889
+"DeKalb, Missouri, US",-15.64489687867366
+"Dent, Missouri, US",-4.17038841121521
+"Douglas, Missouri, US",-1.6619843001460801
+"Dunklin, Missouri, US",-5.980052059009618
+"Franklin, Missouri, US",11.982709186434912
+"Gasconade, Missouri, US",-6.070460474451465
+"Gentry, Missouri, US",-11.798525387602718
+"Greene, Missouri, US",22.32635174085727
+"Grundy, Missouri, US",-9.949846934566013
+"Harrison, Missouri, US",-30.217814569462423
+"Henry, Missouri, US",-18.48127205195887
+"Hickory, Missouri, US",-6.998288131956729
+"Holt, Missouri, US",-11.298931335966481
+"Howard, Missouri, US",-5.692702192172761
+"Howell, Missouri, US",-7.721878438953194
+"Iron, Missouri, US",-9.392470372223338
+"Jackson, Missouri, US",34.7712799304279
+"Jasper,Missouri,US",18.04215536792161
+"Jefferson, Missouri, US",26.158148114054498
+"Johnson, Missouri, US",1.2421927776172506
+"Knox, Missouri, US",-22.652881792178434
+"Laclede, Missouri, US",12.077383474271523
+"Lafayette, Missouri, US",-7.169658839561123
+"Lawrence, Missouri, US",2.053585973593069
+"Lewis, Missouri, US",-29.588623355651883
+"Lincoln, Missouri, US",0.8908361467358401
+"Linn, Missouri, US",-33.71732475963394
+"Livingston, Missouri, US",-0.23562810397009024
+"Macon, Missouri, US",-8.12181704841901
+"Madison, Missouri, US",4.488679689570959
+"Maries, Missouri, US",-11.77689329939821
+"Marion, Missouri, US",-1.009670966166221
+"McDonald, Missouri, US",12.741368785213483
+"Mercer, Missouri, US",-36.5535024947345
+"Miller, Missouri, US",11.29038421650518
+"Mississippi, Missouri, US",-6.946150455280382
+"Moniteau, Missouri, US",-7.748647355063764
+"Monroe, Missouri, US",-12.694438843781517
+"Montgomery, Missouri, US",-34.70012438754871
+"Morgan, Missouri, US",-10.688396806754364
+"New Madrid, Missouri, US",-10.655748555492476
+"Newton, Missouri, US",3.213648293678396
+"Nodaway, Missouri, US",0.581870212749942
+"Oregon, Missouri, US",-13.58317381295686
+"Osage, Missouri, US",-21.642232163521008
+"Ozark, Missouri, US",-2.4622822232141277
+"Pemiscot, Missouri, US",-4.5574328306592955
+"Perry, Missouri, US",-6.728647441092946
+"Pettis, Missouri, US",8.962665111382899
+"Phelps, Missouri, US",8.68648095818126
+"Pike, Missouri, US",-17.889829510025272
+"Platte, Missouri, US",-4.780480270874548
+"Polk, Missouri, US",10.851347965826278
+"Pulaski, Missouri, US",-6.224007162304938
+"Putnam, Missouri, US",-21.55651621018188
+"Ralls, Missouri, US",-14.631837138894676
+"Randolph, Missouri, US",-21.59193459889234
+"Ray, Missouri, US",-21.777290513076146
+"Reynolds, Missouri, US",-22.495480360844986
+"Ripley, Missouri, US",-23.158953666439032
+"Saline, Missouri, US",5.338378192241021
+"Schuyler, Missouri, US",-27.966713493790486
+"Scotland, Missouri, US",-32.14593611381212
+"Scott, Missouri, US",2.5954453456653113
+"Shannon, Missouri, US",-15.394170211621464
+"Shelby, Missouri, US",-13.710063610489179
+"St. Charles, Missouri, US",38.9396311430894
+"St. Clair, Missouri, US",-11.087863223109533
+"St. Francois, Missouri, US",6.674528164759023
+"St. Louis, Missouri, US",60.00306381406331
+"St. Louis City, Missouri, US",39.674975481816176
+"Ste. Genevieve, Missouri, US",-23.367308453734708
+"Stoddard, Missouri, US",-4.99597398161383
+"Stone, Missouri, US",4.064948879120062
+"Sullivan, Missouri, US",-7.425982851300621
+"Taney, Missouri, US",-0.8840559455542047
+"Texas, Missouri, US",7.176090330169626
+"Vernon, Missouri, US",-11.179025937271414
+"Warren, Missouri, US",-12.64038523476429
+"Washington, Missouri, US",-11.245098804172706
+"Wayne, Missouri, US",-0.5902425005620773
+"Webster, Missouri, US",-6.485871648063794
+"Worth, Missouri, US",-30.396367160880168
+"Wright, Missouri, US",-22.94072597432697
+"Beaverhead, Montana, US",-1.2146353974488486
+"Big Horn, Montana, US",9.395681053868433
+"Blaine, Montana, US",-10.794262529964282
+"Broadwater, Montana, US",-25.505974063530257
+"Carbon, Montana, US",-28.11298286749709
+"Carter, Montana, US",-23.210603895827624
+"Cascade, Montana, US",-6.911001831518464
+"Chouteau, Montana, US",-13.33347258553972
+"Custer, Montana, US",-3.5111264933578332
+"Daniels, Montana, US",-19.04582618340396
+"Dawson, Montana, US",-5.978738531930134
+"Deer Lodge, Montana, US",-0.8273285129334481
+"Fallon, Montana, US",-14.91078772611158
+"Fergus, Montana, US",0.0028391441782645733
+"Flathead, Montana, US",2.585774424854102
+"Gallatin, Montana, US",13.616346978624621
+"Garfield, Montana, US",-39.57169291861295
+"Glacier, Montana, US",-13.422247596602247
+"Golden Valley, Montana, US",-31.99763085299995
+"Granite, Montana, US",-27.957295696923953
+"Hill, Montana, US",8.285908010064684
+"Jefferson, Montana, US",-3.6916505961282295
+"Judith Basin, Montana, US",-31.41794871691363
+"Lake, Montana, US",-19.05168691725946
+"Lewis and Clark, Montana, US",-12.70467309195278
+"Liberty, Montana, US",-28.652091009532445
+"Lincoln, Montana, US",-29.401302098052987
+"Madison, Montana, US",-33.47992319049677
+"McCone, Montana, US",-23.138411762920597
+"Meagher, Montana, US",-19.17798536074626
+"Mineral, Montana, US",-7.06273078148737
+"Missoula, Montana, US",-0.79905603041911
+"Musselshell, Montana, US",-11.570613511258115
+"Park, Montana, US",-31.214836018395257
+"Petroleum, Montana, US",-37.42526198072873
+"Phillips, Montana, US",-3.8532350428601454
+"Pondera, Montana, US",-15.58540479608257
+"Powder River, Montana, US",-19.858608518904546
+"Powell, Montana, US",5.500792595362986
+"Prairie, Montana, US",-8.490700126473856
+"Ravalli, Montana, US",-16.860858917390352
+"Richland, Montana, US",-5.2178912736983145
+"Roosevelt, Montana, US",-21.059552003154643
+"Rosebud, Montana, US",2.7188540959325778
+"Sanders, Montana, US",-7.720752079443175
+"Sheridan, Montana, US",-16.21726474490521
+"Silver Bow, Montana, US",-20.791716959683903
+"Stillwater, Montana, US",-10.985580245355349
+"Sweet Grass, Montana, US",-14.882178648982709
+"Teton, Montana, US",-21.01643584584698
+"Toole, Montana, US",-27.920636881619362
+"Treasure, Montana, US",-25.619074958241605
+"Valley, Montana, US",-3.928234489666131
+"Wheatland, Montana, US",-18.606727543250752
+"Wibaux, Montana, US",-25.591547920597744
+"Yellowstone, Montana, US",16.472102350861558
+"Adams, Nebraska, US",2.974172215732698
+"Antelope, Nebraska, US",-29.060544564051366
+"Arthur, Nebraska, US",-32.87596490750927
+"Banner, Nebraska, US",-30.80133995581591
+"Blaine, Nebraska, US",-27.118915723857477
+"Boone, Nebraska, US",-25.90989300473525
+"Box Butte, Nebraska, US",-2.6059266233932554
+"Boyd, Nebraska, US",-21.526198275072968
+"Brown, Nebraska, US",-16.487058864958918
+"Buffalo, Nebraska, US",6.379122824635521
+"Burt, Nebraska, US",-26.801764976948196
+"Butler, Nebraska, US",-15.680745875616362
+"Cass, Nebraska, US",-3.2145906754829974
+"Cedar, Nebraska, US",-25.63361384807038
+"Chase, Nebraska, US",-11.433146462497296
+"Cherry, Nebraska, US",-15.839050056666057
+"Cheyenne, Nebraska, US",-30.199174233614272
+"Clay, Nebraska, US",-24.04925296320997
+"Colfax, Nebraska, US",10.652033066959767
+"Cuming, Nebraska, US",-16.44826026176571
+"Custer, Nebraska, US",-24.27358553972704
+"Dakota, Nebraska, US",28.50081758764844
+"Dawes, Nebraska, US",-1.255673528471707
+"Dawson, Nebraska, US",16.891512744732875
+"Deuel, Nebraska, US",-22.44145145300767
+"Dixon, Nebraska, US",-21.576715695833187
+"Dodge, Nebraska, US",12.512864624880951
+"Douglas, Nebraska, US",49.02012394548775
+"Dundy, Nebraska, US",-23.397844296374334
+"Fillmore, Nebraska, US",-25.21993536826228
+"Franklin, Nebraska, US",-41.91805536950391
+"Frontier, Nebraska, US",-18.785603082946817
+"Furnas, Nebraska, US",-30.64676515660609
+"Gage, Nebraska, US",-12.623101493503825
+"Garden, Nebraska, US",-29.295327063316602
+"Garfield, Nebraska, US",-28.050902237671394
+"Gosper, Nebraska, US",-43.53672098339476
+"Grant, Nebraska, US",-39.67659859166493
+"Greeley, Nebraska, US",-28.77908518229364
+"Hall, Nebraska, US",26.632704205295937
+"Hamilton, Nebraska, US",-20.412769997146107
+"Harlan, Nebraska, US",-15.252379693608335
+"Hayes, Nebraska, US",-21.776839465410518
+"Hitchcock, Nebraska, US",-9.625918978146935
+"Holt, Nebraska, US",-3.208321059397854
+"Hooker, Nebraska, US",-33.58331957509156
+"Howard, Nebraska, US",-23.832220287103418
+"Jefferson, Nebraska, US",-29.28042232045823
+"Johnson, Nebraska, US",-30.804463058209414
+"Kearney, Nebraska, US",-21.17940554219136
+"Keith, Nebraska, US",-6.71573664224801
+"Keya Paha, Nebraska, US",-32.30079612662532
+"Kimball, Nebraska, US",-47.70860324258482
+"Knox, Nebraska, US",-20.116159394042953
+"Lancaster, Nebraska, US",38.171473834973256
+"Lincoln, Nebraska, US",-8.478261926686276
+"Logan, Nebraska, US",-30.577451976678287
+"Loup, Nebraska, US",-39.13848741097439
+"Madison, Nebraska, US",8.22103640650879
+"McPherson, Nebraska, US",-53.24845145453795
+"Merrick, Nebraska, US",-24.740816761153162
+"Morrill, Nebraska, US",-24.298680761793094
+"Nance, Nebraska, US",-19.6005914982886
+"Nemaha, Nebraska, US",-12.297657129698365
+"Nuckolls, Nebraska, US",-21.414600840894487
+"Otoe, Nebraska, US",-12.377778187622257
+"Pawnee, Nebraska, US",-26.81450721169356
+"Perkins, Nebraska, US",-19.922925449347115
+"Phelps, Nebraska, US",-19.80460744586735
+"Pierce, Nebraska, US",-19.09382923808027
+"Platte, Nebraska, US",13.327340283738659
+"Polk, Nebraska, US",-34.12380977001798
+"Red Willow, Nebraska, US",-25.540089109091994
+"Richardson, Nebraska, US",-15.13954675650049
+"Rock, Nebraska, US",-27.057686704619478
+"Saline, Nebraska, US",10.461875074182913
+"Sarpy, Nebraska, US",26.1697937317313
+"Saunders, Nebraska, US",-8.7454422218258
+"Scotts Bluff, Nebraska, US",0.3321165554614624
+"Seward, Nebraska, US",-12.859757889023637
+"Sheridan, Nebraska, US",-17.505966964556215
+"Sherman, Nebraska, US",-34.988335022641586
+"Sioux, Nebraska, US",-56.9587630546707
+"Stanton, Nebraska, US",-32.7419489560212
+"Thayer, Nebraska, US",-15.486319661484801
+"Thomas, Nebraska, US",-32.45466357859972
+"Thurston, Nebraska, US",-9.388211307268717
+"Valley, Nebraska, US",-30.568040377809364
+"Washington, Nebraska, US",-16.868748725735102
+"Wayne, Nebraska, US",-11.64487782708616
+"Webster, Nebraska, US",-40.69623319873789
+"Wheeler, Nebraska, US",-30.456409986454684
+"York, Nebraska, US",-14.282611442047049
+"Carson City, Nevada, US",-1.4802227040204448
+"Churchill, Nevada, US",-11.79753236567593
+"Clark, Nevada, US",71.5255790868758
+"Douglas, Nevada, US",-15.592661003718574
+"Elko, Nevada, US",-0.9109980198520344
+"Esmeralda, Nevada, US",-24.9298875847083
+"Eureka, Nevada, US",-41.591566483343804
+"Humboldt, Nevada, US",-21.36192422874277
+"Lander, Nevada, US",-27.67342002972871
+"Lincoln, Nevada, US",-21.12263927851935
+"Lyon, Nevada, US",-4.814181849500426
+"Mineral, Nevada, US",-29.176584574156433
+"Nye, Nevada, US",-4.814052136739039
+"Pershing, Nevada, US",-20.374944303332743
+"Storey, Nevada, US",-38.144715485052615
+"Washoe, Nevada, US",42.17036960263111
+"White Pine, Nevada, US",-15.762020477142288
+"Belknap, New Hampshire, US",-18.882832385898617
+"Carroll, New Hampshire, US",-26.589687597431592
+"Cheshire, New Hampshire, US",-18.608135296354973
+"Coos, New Hampshire, US",-23.335881506765787
+"Grafton, New Hampshire, US",-21.982362036943304
+"Hillsborough, New Hampshire, US",35.70156252031576
+"Merrimack, New Hampshire, US",5.757757739879319
+"Rockingham, New Hampshire, US",23.831374691819327
+"Strafford, New Hampshire, US",1.4578148051668698
+"Sullivan, New Hampshire, US",-35.49571327133338
+"Atlantic, New Jersey, US",35.80246880788225
+"Bergen, New Jersey, US",64.84572235584913
+"Burlington, New Jersey, US",44.39925754860106
+"Camden, New Jersey, US",51.10740422956979
+"Cape May, New Jersey, US",16.32877371042456
+"Cumberland, New Jersey, US",33.69653370931343
+"Essex, New Jersey, US",65.34232345990007
+"Gloucester, New Jersey, US",36.25135516237462
+"Hudson, New Jersey, US",64.89555517607033
+"Hunterdon, New Jersey, US",16.301462034694744
+"Mercer, New Jersey, US",47.775418767048414
+"Middlesex, New Jersey, US",62.722276870387425
+"Monmouth, New Jersey, US",53.47595812200064
+"Morris, New Jersey, US",49.27593018351856
+"Ocean, New Jersey, US",57.35974946283919
+"Passaic, New Jersey, US",63.55846811819322
+"Salem, New Jersey, US",12.96209774223866
+"Somerset, New Jersey, US",42.44367540440085
+"Sussex, New Jersey, US",20.30574702433149
+"Union, New Jersey, US",63.22658010345692
+"Warren, New Jersey, US",19.198027515489688
+"Bernalillo, New Mexico, US",39.01337085326606
+"Catron, New Mexico, US",-41.23969665327436
+"Chaves, New Mexico, US",2.9189605351129218
+"Cibola, New Mexico, US",-2.017466014818179
+"Colfax, New Mexico, US",-40.6064150520892
+"Curry, New Mexico, US",2.119491197574159
+"De Baca, New Mexico, US",-2.2271426569840727
+"Dona Ana, New Mexico, US",27.039595686302874
+"Eddy, New Mexico, US",0.7384215145656533
+"Grant, New Mexico, US",-25.136220055431853
+"Guadalupe, New Mexico, US",-37.4363898185188
+"Harding, New Mexico, US",-41.47450874210555
+"Hidalgo, New Mexico, US",-16.41357885584054
+"Lea, New Mexico, US",14.11044811891641
+"Lincoln, New Mexico, US",-2.2558622296580935
+"Los Alamos, New Mexico, US",-45.02897828771712
+"Luna, New Mexico, US",0.6397021188305703
+"McKinley, New Mexico, US",36.029053615315156
+"Mora, New Mexico, US",-32.57363586495168
+"Otero, New Mexico, US",-4.115943964951873
+"Quay, New Mexico, US",-16.95721852676839
+"Rio Arriba, New Mexico, US",-8.113605911817059
+"Roosevelt, New Mexico, US",-7.2945480541192005
+"San Juan, New Mexico, US",30.867997522329077
+"San Miguel, New Mexico, US",-18.580780995366993
+"Sandoval, New Mexico, US",16.952143342482948
+"Santa Fe, New Mexico, US",6.40269429672512
+"Sierra, New Mexico, US",-13.477792443092754
+"Socorro, New Mexico, US",-20.946612961293255
+"Taos, New Mexico, US",-23.09858815624872
+"Torrance, New Mexico, US",-30.819250843911753
+"Union, New Mexico, US",-31.6618811836811
+"Valencia, New Mexico, US",0.5872407802641109
+"Albany, New York, US",29.174085353403715
+"Allegany, New York, US",-18.81310778884732
+"Bronx, New York, US",79.4310422542162
+"Broome, New York, US",20.011846410927863
+"Cattaraugus, New York, US",-9.035903352350935
+"Cayuga, New York, US",-8.88708372925975
+"Chautauqua, New York, US",-3.6084738159843526
+"Chemung, New York, US",-0.011160908754146024
+"Chenango, New York, US",-10.214972209512522
+"Clinton, New York, US",-17.39532593325073
+"Columbia, New York, US",1.0753090684290116
+"Cortland, New York, US",-17.126308516687573
+"Delaware, New York, US",-21.79115415289716
+"Dutchess, New York, US",39.35708970740664
+"Erie, New York, US",52.38011948490235
+"Essex, New York, US",-27.562224195250263
+"Franklin, New York, US",-33.43308134055304
+"Fulton, New York, US",-6.727906560587431
+"Genesee, New York, US",-3.8867481430566215
+"Greene, New York, US",-5.947620570284967
+"Hamilton, New York, US",-52.36398201367526
+"Herkimer, New York, US",-8.950291142825863
+"Jefferson, New York, US",-15.45702601062329
+"Kings, New York, US",83.86663451741354
+"Lewis, New York, US",-31.312559825290275
+"Livingston, New York, US",-11.614939262660027
+"Madison, New York, US",0.41304827310673664
+"Monroe, New York, US",42.228321886730804
+"Montgomery, New York, US",-15.227223932289204
+"Nassau, New York, US",76.75871007230852
+"New York, New York, US",69.35073410503566
+"Niagara, New York, US",21.26464785465319
+"Oneida, New York, US",26.372597551140224
+"Onondaga, New York, US",36.472744440702904
+"Ontario, New York, US",-1.2722784850806437
+"Orange, New York, US",54.61295582059287
+"Orleans, New York, US",-6.096840849188117
+"Oswego, New York, US",-2.87138312274185
+"Otsego, New York, US",-14.50985030446844
+"Putnam, New York, US",20.55325811687152
+"Queens, New York, US",86.22565217479917
+"Rensselaer, New York, US",9.13600224936632
+"Richmond, New York, US",60.260260716979076
+"Rockland, New York, US",57.61973686906592
+"Saratoga, New York, US",10.519723442703494
+"Schenectady, New York, US",14.84459832523615
+"Schoharie, New York, US",-29.24686852245237
+"Schuyler, New York, US",-36.75722247835872
+"Seneca, New York, US",-23.073097823767146
+"St. Lawrence, New York, US",-3.9627835268495493
+"Steuben, New York, US",1.4831903995694509
+"Suffolk, New York, US",78.07400645403611
+"Sullivan, New York, US",19.03028134012707
+"Tioga, New York, US",-8.832721845282915
+"Tompkins, New York, US",-6.675765748261944
+"Ulster, New York, US",22.923054644221903
+"Warren, New York, US",-5.3267611750123125
+"Washington, New York, US",-9.37274632007629
+"Wayne, New York, US",-7.201390580630982
+"Westchester, New York, US",71.58582301089878
+"Wyoming, New York, US",-18.169439852930893
+"Yates, New York, US",-27.184305141625977
+"Alamance, North Carolina, US",25.41903098415909
+"Alexander,North Carolina,US",5.892961387493268
+"Alleghany, North Carolina, US",-15.749221444969308
+"Anson, North Carolina, US",-5.813361909501048
+"Ashe, North Carolina, US",-8.017814135811912
+"Avery, North Carolina, US",2.4105985781034023
+"Beaufort, North Carolina, US",-3.1275332944981065
+"Bertie, North Carolina, US",-7.965055165644294
+"Bladen, North Carolina, US",8.4426786983237
+"Brunswick, North Carolina, US",8.158378790111165
+"Buncombe, North Carolina, US",19.69855190532106
+"Burke, North Carolina, US",19.687979965541633
+"Cabarrus, North Carolina, US",26.56403570130769
+"Caldwell, North Carolina, US",14.488747481560994
+"Camden, North Carolina, US",-14.92171418207014
+"Carteret, North Carolina, US",-5.360475610015909
+"Caswell, North Carolina, US",-6.366801833768401
+"Catawba, North Carolina, US",21.39630529829936
+"Chatham, North Carolina, US",14.314916132414542
+"Cherokee, North Carolina, US",-12.188845057591069
+"Chowan, North Carolina, US",-16.95862660851482
+"Clay, North Carolina, US",-30.366656154064902
+"Cleveland, North Carolina, US",13.605859827093626
+"Columbus, North Carolina, US",13.641799462079938
+"Craven, North Carolina, US",11.559569327400316
+"Cumberland, North Carolina, US",31.372270326297564
+"Currituck, North Carolina, US",-19.244289728743947
+"Dare, North Carolina, US",-16.521306509209563
+"Davidson, North Carolina, US",23.298728224161646
+"Davie, North Carolina, US",-4.272916169840471
+"Duplin, North Carolina, US",22.328285268936806
+"Durham, North Carolina, US",38.50769476043337
+"Edgecombe, North Carolina, US",9.94498164788262
+"Forsyth, North Carolina, US",36.26519811252714
+"Franklin, North Carolina, US",5.701219968655722
+"Gaston, North Carolina, US",30.007061663857268
+"Gates, North Carolina, US",-27.22541263115139
+"Graham, North Carolina, US",-17.53997058950648
+"Granville, North Carolina, US",14.53392678720443
+"Greene, North Carolina, US",-5.20235037054617
+"Guilford, North Carolina, US",39.49219471187447
+"Halifax, North Carolina, US",6.2831952064479095
+"Harnett, North Carolina, US",14.062061779356654
+"Haywood, North Carolina, US",-1.324704468716208
+"Henderson, North Carolina, US",17.24776511717363
+"Hertford, North Carolina, US",0.14448585208132328
+"Hoke, North Carolina, US",8.068548971725107
+"Hyde, North Carolina, US",-11.87983864931037
+"Iredell, North Carolina, US",20.14454105622782
+"Jackson, North Carolina, US",3.9934855062270076
+"Johnston, North Carolina, US",27.765867222093757
+"Jones, North Carolina, US",-26.662103622251685
+"Lee, North Carolina, US",18.492788279718432
+"Lenoir, North Carolina, US",7.68058872633709
+"Lincoln, North Carolina, US",9.818856886627456
+"Macon, North Carolina, US",9.20272556062921
+"Madison, North Carolina, US",-6.86815852955348
+"Martin, North Carolina, US",-6.785645466875719
+"McDowell, North Carolina, US",0.6803456351500045
+"Mecklenburg, North Carolina, US",60.40508113269877
+"Mitchell, North Carolina, US",-21.7487653366088
+"Montgomery, North Carolina, US",1.1798819366499704
+"Moore, North Carolina, US",14.10842801295735
+"Nash, North Carolina, US",16.81521681864064
+"New Hanover, North Carolina, US",22.747821612729588
+"Northampton, North Carolina, US",-6.83693897589319
+"Onslow, North Carolina, US",13.082507668938009
+"Orange, North Carolina, US",17.490759382301135
+"Pamlico, North Carolina, US",-25.07292568488258
+"Pasquotank, North Carolina, US",-2.3000461516612583
+"Pender, North Carolina, US",5.613074063018539
+"Perquimans, North Carolina, US",-23.230329170940983
+"Person, North Carolina, US",-8.92395398546076
+"Pitt, North Carolina, US",24.573544733632552
+"Polk, North Carolina, US",-16.63798347976352
+"Randolph, North Carolina, US",24.418481482321745
+"Richmond, North Carolina, US",7.288257555593781
+"Robeson, North Carolina, US",31.95667819573381
+"Rockingham, North Carolina, US",7.277994159960429
+"Rowan, North Carolina, US",25.907593471316424
+"Rutherford, North Carolina, US",10.229532850312504
+"Sampson, North Carolina, US",21.1138422715301
+"Scotland, North Carolina, US",3.42026329586466
+"Stanly, North Carolina, US",8.907668283133692
+"Stokes, North Carolina, US",-7.240852879055284
+"Surry, North Carolina, US",12.021131761210388
+"Swain, North Carolina, US",-16.005955163804607
+"Transylvania, North Carolina, US",-21.58010881526076
+"Tyrrell, North Carolina, US",-20.55265086411038
+"Union, North Carolina, US",28.249937570151566
+"Vance, North Carolina, US",8.239275506046111
+"Wake, North Carolina, US",46.01731706563784
+"Warren, North Carolina, US",-3.8872045918897755
+"Washington, North Carolina, US",-22.75708019352585
+"Watauga, North Carolina, US",-8.062432194699275
+"Wayne, North Carolina, US",30.66221389648155
+"Wilkes, North Carolina, US",19.212997379792437
+"Wilson, North Carolina, US",17.503056929296992
+"Yadkin, North Carolina, US",2.046081811552012
+"Yancey, North Carolina, US",-11.60604149310093
+"Adams, North Dakota, US",-8.822668001922116
+"Barnes, North Dakota, US",-4.880707256636185
+"Benson, North Dakota, US",7.771259119520663
+"Billings, North Dakota, US",-33.46663616124598
+"Bottineau, North Dakota, US",-14.065242071852463
+"Bowman, North Dakota, US",-14.964021408799622
+"Burke, North Dakota, US",-40.385019893831775
+"Burleigh, North Dakota, US",17.249644850231512
+"Cass, North Dakota, US",37.3009418756035
+"Cavalier, North Dakota, US",-14.883555072120334
+"Dickey, North Dakota, US",-8.242358753570683
+"Divide, North Dakota, US",-21.446634387389583
+"Dunn, North Dakota, US",-31.64238986192423
+"Eddy, North Dakota, US",-21.99381434895087
+"Emmons, North Dakota, US",-10.463670497238429
+"Foster, North Dakota, US",-8.364442474787257
+"Golden Valley, North Dakota, US",-13.341054778077272
+"Grand Forks, North Dakota, US",20.462256407136934
+"Grant, North Dakota, US",-15.786131223663714
+"Griggs, North Dakota, US",-15.57587163237257
+"Hettinger, North Dakota, US",-17.00096589164907
+"Kidder, North Dakota, US",-18.398163754424438
+"LaMoure, North Dakota, US",-19.797959391509306
+"Logan, North Dakota, US",-15.431132487753018
+"McHenry, North Dakota, US",-11.090412567157943
+"McIntosh, North Dakota, US",-15.307959622034828
+"McKenzie, North Dakota, US",-19.801910257544602
+"McLean, North Dakota, US",-14.916561532394807
+"Mercer, North Dakota, US",-14.45629783122877
+"Morton, North Dakota, US",-1.678131478931889
+"Mountrail, North Dakota, US",-15.535635790286602
+"Nelson, North Dakota, US",-10.463888907837601
+"Oliver, North Dakota, US",-28.69569722353699
+"Pembina, North Dakota, US",-23.483307872284158
+"Pierce, North Dakota, US",-16.24412123209569
+"Ramsey, North Dakota, US",-11.11170025925296
+"Ransom, North Dakota, US",-20.990169933249454
+"Renville, North Dakota, US",-25.388310065125566
+"Richland, North Dakota, US",-13.036150133899818
+"Rolette, North Dakota, US",-3.4403546090757193
+"Sargent, North Dakota, US",-19.97066817548552
+"Sheridan, North Dakota, US",-36.79749219747201
+"Sioux, North Dakota, US",-6.30050232534828
+"Slope, North Dakota, US",-44.48875597590478
+"Stark, North Dakota, US",1.6044489076151924
+"Steele, North Dakota, US",-27.097137062586018
+"Stutsman, North Dakota, US",1.334374167544782
+"Towner, North Dakota, US",-21.297455948376136
+"Traill, North Dakota, US",-12.077958820019346
+"Walsh, North Dakota, US",-9.946765559448858
+"Ward, North Dakota, US",2.139275188101161
+"Wells, North Dakota, US",-22.907191358820455
+"Williams, North Dakota, US",-3.2004541363253245
+"Adams, Ohio, US",-15.42768054940521
+"Allen, Ohio, US",14.814362731036468
+"Ashland, Ohio, US",-12.026864718807822
+"Ashtabula, Ohio, US",5.376616532554178
+"Athens, Ohio, US",8.509677051760432
+"Auglaize, Ohio, US",-0.8067581592281922
+"Belmont, Ohio, US",6.343074210396616
+"Brown, Ohio, US",-11.128720407260358
+"Butler, Ohio, US",31.64572558947221
+"Carroll, Ohio, US",-22.186302273195768
+"Champaign, Ohio, US",-14.89430375107697
+"Clark, Ohio, US",17.03555043651053
+"Clermont, Ohio, US",13.858378916233313
+"Clinton, Ohio, US",-10.758661863127042
+"Columbiana, Ohio, US",20.405878287776268
+"Coshocton, Ohio, US",-15.081749600284114
+"Crawford, Ohio, US",-8.117805282208057
+"Cuyahoga, Ohio, US",55.10904027555604
+"Darke, Ohio, US",4.80929737658112
+"Defiance, Ohio, US",-14.150365064808263
+"Delaware, Ohio, US",18.85996808930373
+"Erie, Ohio, US",4.651189010116106
+"Fairfield, Ohio, US",18.531467663124374
+"Fayette, Ohio, US",-12.820816800823627
+"Franklin, Ohio, US",62.17214948793846
+"Fulton, Ohio, US",-10.485961149153628
+"Gallia, Ohio, US",-21.537622415117156
+"Geauga, Ohio, US",6.196918733867832
+"Greene, Ohio, US",12.507006345933403
+"Guernsey, Ohio, US",-13.481808064919695
+"Hamilton, Ohio, US",51.653913790526026
+"Hancock, Ohio, US",-0.961612737810537
+"Hardin, Ohio, US",-8.609978983392265
+"Harrison, Ohio, US",-29.208572978338776
+"Henry, Ohio, US",-8.178739080030185
+"Highland, Ohio, US",-14.391544898396607
+"Hocking, Ohio, US",-11.284947492290055
+"Holmes, Ohio, US",0.24810042492249001
+"Huron, Ohio, US",-1.6311917662448536
+"Jackson, Ohio, US",-7.746834194557087
+"Jefferson, Ohio, US",-8.238290000421111
+"Knox, Ohio, US",-12.855030466399832
+"Lake, Ohio, US",17.33440437509878
+"Lawrence, Ohio, US",-3.7421507293289613
+"Licking, Ohio, US",17.97573326460135
+"Logan, Ohio, US",-10.947767774739802
+"Lorain, Ohio, US",23.65662609087143
+"Lucas, Ohio, US",42.846501408525164
+"Madison, Ohio, US",1.6160864769321044
+"Mahoning, Ohio, US",30.58575208311964
+"Marion, Ohio, US",31.903302350351836
+"Medina, Ohio, US",13.800516286039999
+"Meigs, Ohio, US",-14.147918359245917
+"Mercer, Ohio, US",7.329314791202512
+"Miami, Ohio, US",13.674363506576908
+"Monroe, Ohio, US",-12.7839169106055
+"Montgomery, Ohio, US",38.633466390948605
+"Morgan, Ohio, US",-29.51877626073251
+"Morrow, Ohio, US",-8.646892159184128
+"Muskingum, Ohio, US",-2.0637491789663955
+"Noble, Ohio, US",-28.353626625353073
+"Ottawa, Ohio, US",-3.8755604050884114
+"Paulding, Ohio, US",-23.171602285292558
+"Perry, Ohio, US",-15.4642757148646
+"Pickaway, Ohio, US",30.078662876175276
+"Pike, Ohio, US",-10.890375135986856
+"Portage, Ohio, US",14.071852978883353
+"Preble, Ohio, US",-6.978476545956767
+"Putnam, Ohio, US",4.522395786950515
+"Richland, Ohio, US",9.135033534591493
+"Ross, Ohio, US",4.500720809585785
+"Sandusky, Ohio, US",-2.227474467579696
+"Scioto, Ohio, US",-2.573944700060911
+"Seneca, Ohio, US",-9.732314952077306
+"Shelby, Ohio, US",-5.505080998254031
+"Stark, Ohio, US",26.506364004854248
+"Summit, Ohio, US",36.57885058627621
+"Trumbull, Ohio, US",22.531772614306
+"Tuscarawas, Ohio, US",11.206135422713379
+"Union, Ohio, US",-3.7616085207387786
+"Van Wert, Ohio, US",-4.495177527627065
+"Vinton, Ohio, US",-28.036966663472526
+"Warren, Ohio, US",23.855670461984857
+"Washington, Ohio, US",-4.439858626430981
+"Wayne, Ohio, US",10.742563555618826
+"Williams, Ohio, US",-8.171911799508338
+"Wood, Ohio, US",16.148980509750032
+"Wyandot, Ohio, US",-15.699605416618052
+"Adair, Oklahoma, US",-3.5494941372762208
+"Alfalfa, Oklahoma, US",4.784162730409488
+"Atoka, Oklahoma, US",1.380486263920788
+"Beaver, Oklahoma, US",-30.319805685789994
+"Beckham, Oklahoma, US",-11.437439490081806
+"Blaine, Oklahoma, US",-15.322169551345366
+"Bryan, Oklahoma, US",4.355283788822971
+"Caddo, Oklahoma, US",3.842060388124011
+"Canadian, Oklahoma, US",16.310107095603737
+"Carter, Oklahoma, US",7.259670216503709
+"Cherokee, Oklahoma, US",-0.7108835163217888
+"Choctaw, Oklahoma, US",-0.28858109734358645
+"Cimarron, Oklahoma, US",-24.92130297729047
+"Cleveland, Oklahoma, US",31.199176852362456
+"Coal, Oklahoma, US",-17.851513218482214
+"Comanche, Oklahoma, US",14.376312982584686
+"Cotton, Oklahoma, US",-39.84464688054595
+"Craig, Oklahoma, US",-17.108476261006874
+"Creek, Oklahoma, US",3.9224411718657275
+"Custer, Oklahoma, US",-8.307872222309276
+"Delaware, Oklahoma, US",1.7576943327976702
+"Dewey, Oklahoma, US",-6.935181359340692
+"Ellis, Oklahoma, US",-22.82226493909658
+"Garfield, Oklahoma, US",3.6406085866608193
+"Garvin, Oklahoma, US",-12.04673137221167
+"Grady, Oklahoma, US",4.08737168780564
+"Grant, Oklahoma, US",-10.778963390636841
+"Greer, Oklahoma, US",-25.0492412315718
+"Harmon, Oklahoma, US",-16.726897503780148
+"Harper, Oklahoma, US",-15.211880505838035
+"Haskell, Oklahoma, US",-17.949252218038815
+"Hughes, Oklahoma, US",2.3528549185090393
+"Jackson, Oklahoma, US",-4.105740698354138
+"Jefferson, Oklahoma, US",-13.368355239072809
+"Johnston, Oklahoma, US",-4.416696391964098
+"Kay, Oklahoma, US",-6.4458329410951984
+"Kingfisher, Oklahoma, US",-16.15370359818467
+"Kiowa, Oklahoma, US",-28.53949056835381
+"Latimer, Oklahoma, US",-26.361546870115095
+"Le Flore, Oklahoma, US",0.662521277910666
+"Lincoln, Oklahoma, US",-13.492606933008341
+"Logan, Oklahoma, US",-10.393393760961988
+"Love, Oklahoma, US",-8.176188377443813
+"Major, Oklahoma, US",-23.370995399345016
+"Marshall, Oklahoma, US",-6.96291235863273
+"Mayes, Oklahoma, US",-5.758583333279858
+"McClain, Oklahoma, US",9.86596795850286
+"McCurtain, Oklahoma, US",10.725359395591124
+"McIntosh, Oklahoma, US",-4.747370193060117
+"Murray, Oklahoma, US",-3.709531068529266
+"Muskogee, Oklahoma, US",5.228309834103213
+"Noble, Oklahoma, US",-28.107300617191964
+"Nowata, Oklahoma, US",-26.85744764275265
+"Okfuskee, Oklahoma, US",-2.580806067079667
+"Oklahoma, Oklahoma, US",49.38611274932032
+"Okmulgee, Oklahoma, US",-4.225791030240146
+"Osage, Oklahoma, US",1.571508440787608
+"Ottawa, Oklahoma, US",-3.928332894168733
+"Pawnee, Oklahoma, US",-19.707972404128764
+"Payne, Oklahoma, US",9.132635229337966
+"Pittsburg, Oklahoma, US",-2.124949395848106
+"Pontotoc, Oklahoma, US",-12.045830297373318
+"Pottawatomie, Oklahoma, US",5.5496389934880055
+"Pushmataha, Oklahoma, US",-8.605783657879856
+"Roger Mills, Oklahoma, US",-13.90494603783609
+"Rogers, Oklahoma, US",12.044371570535837
+"Seminole, Oklahoma, US",-8.97050540436829
+"Sequoyah, Oklahoma, US",-5.865237704027802
+"Stephens, Oklahoma, US",-9.082303770454113
+"Texas, Oklahoma, US",19.120701375980715
+"Tillman, Oklahoma, US",-22.250776188208043
+"Tulsa, Oklahoma, US",48.13714828621934
+"Wagoner, Oklahoma, US",9.476787715257094
+"Washington, Oklahoma, US",8.257138856462623
+"Washita, Oklahoma, US",-4.037239250035964
+"Woods, Oklahoma, US",-11.94098910824647
+"Woodward, Oklahoma, US",3.61531120150589
+"Baker, Oregon, US",-7.218234097242392
+"Benton, Oregon, US",-14.94953719732465
+"Clackamas, Oregon, US",18.34366519224637
+"Clatsop, Oregon, US",-23.428661488399303
+"Columbia, Oregon, US",-23.439710812169782
+"Coos, Oregon, US",-16.817597133500016
+"Crook, Oregon, US",-21.502976681128676
+"Curry, Oregon, US",-34.81847533846106
+"Deschutes, Oregon, US",-0.11976221233549356
+"Douglas, Oregon, US",-17.86406508633511
+"Gilliam, Oregon, US",-28.3668330318533
+"Grant, Oregon, US",-22.853937794934026
+"Harney, Oregon, US",-30.499535292701548
+"Hood River, Oregon, US",-13.584956938628912
+"Jackson, Oregon, US",4.336330810546481
+"Jefferson, Oregon, US",-2.1804941780642313
+"Josephine, Oregon, US",-21.904220501242698
+"Klamath, Oregon, US",-11.527431553334457
+"Lake, Oregon, US",-26.410768767427847
+"Lane, Oregon, US",6.186981346891778
+"Lincoln, Oregon, US",-6.0324892168539535
+"Linn, Oregon, US",-7.74626509982129
+"Malheur, Oregon, US",6.912054105817189
+"Marion, Oregon, US",30.698494670709636
+"Morrow, Oregon, US",-14.192967667844231
+"Multnomah, Oregon, US",38.94757938335217
+"Polk, Oregon, US",-5.834774224721398
+"Sherman, Oregon, US",-43.81641098286944
+"Tillamook, Oregon, US",-41.18444191547149
+"Umatilla, Oregon, US",17.32935266233939
+"Union, Oregon, US",1.6937062223608355
+"Wallowa, Oregon, US",-37.643866674868335
+"Wasco, Oregon, US",-19.778941638126962
+"Washington, Oregon, US",26.23660800034354
+"Wheeler, Oregon, US",-25.8267393914322
+"Yamhill, Oregon, US",-4.20617684328144
+"Adams, Pennsylvania, US",4.196631907797418
+"Allegheny, Pennsylvania, US",48.034169449602366
+"Armstrong, Pennsylvania, US",-5.51581459802502
+"Beaver, Pennsylvania, US",20.365214974612975
+"Bedford, Pennsylvania, US",-8.108012606104639
+"Berks, Pennsylvania, US",44.93597704300824
+"Blair, Pennsylvania, US",1.8752667502058322
+"Bradford, Pennsylvania, US",-12.763119225932007
+"Bucks, Pennsylvania, US",47.49384225127917
+"Butler, Pennsylvania, US",11.810112395801665
+"Cambria, Pennsylvania, US",3.007379007190962
+"Cameron, Pennsylvania, US",-26.787421906527104
+"Carbon, Pennsylvania, US",1.4430649212093902
+"Centre, Pennsylvania, US",11.351189630266719
+"Chester, Pennsylvania, US",40.16977074754575
+"Clarion, Pennsylvania, US",-18.96514242765391
+"Clearfield, Pennsylvania, US",-9.142750163302608
+"Clinton, Pennsylvania, US",-12.936366664802739
+"Columbia, Pennsylvania, US",7.129379851216805
+"Crawford, Pennsylvania, US",-10.086668752436823
+"Cumberland, Pennsylvania, US",17.58422885110634
+"Dauphin, Pennsylvania, US",32.8915547094244
+"Delaware, Pennsylvania, US",49.563541005656
+"Elk, Pennsylvania, US",-17.287327148462392
+"Erie, Pennsylvania, US",15.304626974992864
+"Fayette, Pennsylvania, US",2.9076941108172187
+"Forest, Pennsylvania, US",-52.421771090585736
+"Franklin, Pennsylvania, US",20.13915885665317
+"Fulton, Pennsylvania, US",-28.4695773832705
+"Greene, Pennsylvania, US",-20.10761813753393
+"Huntingdon, Pennsylvania, US",2.3780361080452406
+"Indiana, Pennsylvania, US",0.6530219493457918
+"Jefferson, Pennsylvania, US",-13.421212470151675
+"Juniata, Pennsylvania, US",-13.149435424271195
+"Lackawanna, Pennsylvania, US",27.505570385412078
+"Lancaster, Pennsylvania, US",46.02630921705567
+"Lawrence, Pennsylvania, US",-0.8985356297744551
+"Lebanon, Pennsylvania, US",26.218922321046172
+"Lehigh, Pennsylvania, US",43.73789927587604
+"Luzerne, Pennsylvania, US",38.60499373912412
+"Lycoming, Pennsylvania, US",4.067594906006146
+"McKean,Pennsylvania,US",-24.678232794362103
+"Mercer, Pennsylvania, US",2.7343139380635693
+"Mifflin, Pennsylvania, US",-9.428193424503254
+"Monroe, Pennsylvania, US",21.97826955280755
+"Montgomery, Pennsylvania, US",50.21126356686824
+"Montour, Pennsylvania, US",-17.82102521915059
+"Northampton, Pennsylvania, US",38.64060984514887
+"Northumberland, Pennsylvania, US",8.529535657106187
+"Perry, Pennsylvania, US",-13.751572885734921
+"Philadelphia, Pennsylvania, US",73.5047982375337
+"Pike, Pennsylvania, US",2.981234865953058
+"Potter, Pennsylvania, US",-19.893671251454716
+"Schuylkill, Pennsylvania, US",17.254518850930104
+"Snyder, Pennsylvania, US",-12.357777700805748
+"Somerset, Pennsylvania, US",-8.687499294765171
+"Sullivan, Pennsylvania, US",-31.19418886291
+"Susquehanna, Pennsylvania, US",-8.958372422686628
+"Tioga, Pennsylvania, US",-24.481573460269775
+"Union, Pennsylvania, US",-4.6398897681775875
+"Venango, Pennsylvania, US",-23.57551434215271
+"Warren, Pennsylvania, US",-12.005934364990992
+"Washington, Pennsylvania, US",9.938974302954103
+"Wayne, Pennsylvania, US",-12.265531998575314
+"Westmoreland, Pennsylvania, US",25.51234848049249
+"Wyoming, Pennsylvania, US",-27.014955737341538
+"York, Pennsylvania, US",33.32828531234409
+"Bristol, Rhode Island, US",-4.0967983483595285
+"Kent, Rhode Island, US",23.070137509384764
+"Newport, Rhode Island, US",-1.216318381630688
+"Providence, Rhode Island, US",59.1295970612057
+"Washington, Rhode Island, US",8.89243169690755
+"Abbeville, South Carolina, US",-8.239404519760056
+"Aiken, South Carolina, US",20.74844937788969
+"Allendale, South Carolina, US",-16.159171494945955
+"Anderson, South Carolina, US",23.261643578133377
+"Bamberg, South Carolina, US",-11.189855160680873
+"Barnwell, South Carolina, US",-4.802081420626652
+"Beaufort, South Carolina, US",27.15402692254469
+"Berkeley, South Carolina, US",27.557365616799164
+"Calhoun, South Carolina, US",-15.286963683441336
+"Charleston, South Carolina, US",44.652102209042205
+"Cherokee, South Carolina, US",4.0068082764901005
+"Chester, South Carolina, US",1.4907778715144502
+"Chesterfield, South Carolina, US",5.740478476326494
+"Clarendon, South Carolina, US",5.580800567698482
+"Colleton, South Carolina, US",1.7831971670082973
+"Darlington, South Carolina, US",12.154590649037708
+"Dillon, South Carolina, US",7.096056735085098
+"Dorchester, South Carolina, US",23.280342499493422
+"Edgefield, South Carolina, US",-6.066387723874697
+"Fairfield, South Carolina, US",-1.0133523143636778
+"Florence, South Carolina, US",28.784473157648048
+"Georgetown, South Carolina, US",10.208850140421877
+"Greenville, South Carolina, US",48.273883307971246
+"Greenwood, South Carolina, US",13.413993145786055
+"Hampton, South Carolina, US",-7.15723955758867
+"Horry, South Carolina, US",37.30838138405746
+"Jasper, South Carolina, US",-5.1094066394291255
+"Kershaw, South Carolina, US",12.223407362117065
+"Lancaster, South Carolina, US",11.907913080715703
+"Laurens, South Carolina, US",10.049013364508108
+"Lee, South Carolina, US",-2.0998894787389584
+"Lexington, South Carolina, US",34.40742416542078
+"Marion, South Carolina, US",1.2890792017335317
+"Marlboro, South Carolina, US",3.36866139429507
+"McCormick, South Carolina, US",-24.728787086056737
+"Newberry, South Carolina, US",4.592339222621012
+"Oconee, South Carolina, US",7.672593346226782
+"Orangeburg, South Carolina, US",16.630988154110636
+"Pickens, South Carolina, US",19.289634044190873
+"Richland, South Carolina, US",46.369397288489665
+"Saluda, South Carolina, US",-2.7520502642795637
+"Spartanburg, South Carolina, US",35.83598342581029
+"Sumter, South Carolina, US",22.33273414005201
+"Union, South Carolina, US",-7.552546809898672
+"Williamsburg, South Carolina, US",8.12284748522462
+"York, South Carolina, US",30.312647010304804
+"Aurora, South Dakota, US",-20.552433129569863
+"Beadle, South Dakota, US",0.4704874798830765
+"Bennett, South Dakota, US",-13.439910210874327
+"Bon Homme, South Dakota, US",-10.247401368565658
+"Brookings, South Dakota, US",-5.258176952060838
+"Brown, South Dakota, US",9.560923435862374
+"Brule, South Dakota, US",-9.69913534404578
+"Buffalo, South Dakota, US",-14.259128437477973
+"Butte, South Dakota, US",-0.13064427626503197
+"Campbell, South Dakota, US",-23.30512790495432
+"Charles Mix, South Dakota, US",-11.29464012116093
+"Clark, South Dakota, US",-25.23420085971277
+"Clay, South Dakota, US",-10.892064505437638
+"Codington, South Dakota, US",-6.254160853480653
+"Corson, South Dakota, US",-15.927627939978871
+"Custer, South Dakota, US",-6.817505176997664
+"Davison, South Dakota, US",-5.549015827326771
+"Day, South Dakota, US",-26.945723898780898
+"Deuel, South Dakota, US",-10.61858989614563
+"Dewey, South Dakota, US",4.0364511523455
+"Douglas, South Dakota, US",-15.801023767195838
+"Edmunds, South Dakota, US",-18.071978836098594
+"Fall River, South Dakota, US",-20.319867322625242
+"Faulk, South Dakota, US",-21.305363083200277
+"Grant, South Dakota, US",-17.76003055658243
+"Gregory, South Dakota, US",-11.566147169829911
+"Haakon, South Dakota, US",-12.499374682972658
+"Hamlin, South Dakota, US",-16.139075901074634
+"Hand, South Dakota, US",-28.815156711210367
+"Hanson, South Dakota, US",-22.053889401499003
+"Harding, South Dakota, US",-27.337840939258875
+"Hughes, South Dakota, US",-10.688560643274403
+"Hutchinson, South Dakota, US",-15.255573910502358
+"Hyde, South Dakota, US",-23.76818855606827
+"Jackson, South Dakota, US",-29.718887385025557
+"Jerauld, South Dakota, US",-29.903200488438504
+"Jones, South Dakota, US",-27.72010134517693
+"Kingsbury, South Dakota, US",-16.248095713803313
+"Lake, South Dakota, US",-12.109479706704652
+"Lawrence, South Dakota, US",-18.35338677460568
+"Lincoln, South Dakota, US",14.689540209818759
+"Lyman, South Dakota, US",-12.849624365257739
+"Marshall, South Dakota, US",-28.324912261365927
+"McCook, South Dakota, US",-20.921544950758488
+"McPherson, South Dakota, US",-27.76311583739639
+"Meade, South Dakota, US",2.180317106567331
+"Mellette, South Dakota, US",-24.249175155131603
+"Miner, South Dakota, US",-27.728980364106363
+"Minnehaha, South Dakota, US",41.68977613201318
+"Moody, South Dakota, US",-24.51051955671195
+"Pennington, South Dakota, US",16.695984461820913
+"Perkins, South Dakota, US",-14.674702724134765
+"Potter, South Dakota, US",-4.665831820649308
+"Roberts, South Dakota, US",-12.336987781214619
+"Sanborn, South Dakota, US",-32.30939139703551
+"Spink, South Dakota, US",-15.683161483860612
+"Stanley, South Dakota, US",-37.115578082321875
+"Sully, South Dakota, US",-21.211223525332677
+"Todd, South Dakota, US",-9.95488893881346
+"Tripp, South Dakota, US",-19.29579800541133
+"Turner, South Dakota, US",-21.83962512979765
+"Union, South Dakota, US",-2.4748189511246252
+"Walworth, South Dakota, US",-31.645229859159272
+"Yankton, South Dakota, US",-9.23262920508001
+"Ziebach, South Dakota, US",-12.681943046533567
+"Anderson, Tennessee, US",2.605730485017828
+"Bedford, Tennessee, US",13.797052728541411
+"Benton, Tennessee, US",-16.159488353058446
+"Bledsoe, Tennessee, US",10.702742264571212
+"Blount, Tennessee, US",14.678966670041545
+"Bradley, Tennessee, US",17.744223937366613
+"Campbell, Tennessee, US",-9.064299498623475
+"Cannon, Tennessee, US",-17.51188211503326
+"Carroll, Tennessee, US",-7.60590121189285
+"Carter, Tennessee, US",4.851665642704104
+"Cheatham, Tennessee, US",-0.8945362507059361
+"Chester, Tennessee, US",-14.315099006197572
+"Claiborne, Tennessee, US",-12.183171331547431
+"Clay, Tennessee, US",-22.974327732877946
+"Cocke, Tennessee, US",-1.0509597165418998
+"Coffee, Tennessee, US",5.92962933276202
+"Crockett, Tennessee, US",-7.239035513912805
+"Cumberland, Tennessee, US",4.332312642983398
+"Davidson, Tennessee, US",58.62738683724753
+"DeKalb,Tennessee,US",-8.775977110312326
+"Decatur, Tennessee, US",-3.6140590279035596
+"Dickson, Tennessee, US",4.568479891430154
+"Dyer, Tennessee, US",6.7556442580859795
+"Fayette, Tennessee, US",6.013581704940988
+"Fentress, Tennessee, US",-5.381224813721348
+"Franklin, Tennessee, US",-2.2941047982720915
+"Gibson, Tennessee, US",6.3872016370636215
+"Giles, Tennessee, US",-3.118382241109144
+"Grainger, Tennessee, US",-7.28830298122034
+"Greene, Tennessee, US",0.8602627596036604
+"Grundy, Tennessee, US",-16.241637499970526
+"Hamblen, Tennessee, US",13.630631065461449
+"Hamilton, Tennessee, US",37.54075792053787
+"Hancock, Tennessee, US",-8.813702235847465
+"Hardeman, Tennessee, US",8.162082145041467
+"Hardin, Tennessee, US",4.199153268560859
+"Hawkins, Tennessee, US",-2.440901060442265
+"Haywood, Tennessee, US",-2.1573931576138876
+"Henderson, Tennessee, US",2.0851534986358855
+"Henry, Tennessee, US",-8.04557512127554
+"Hickman, Tennessee, US",-0.09430434193431374
+"Houston, Tennessee, US",-19.04421160724493
+"Humphreys, Tennessee, US",-15.469586723143454
+"Jackson, Tennessee, US",-18.55623167851276
+"Jefferson, Tennessee, US",-1.46636689605004
+"Johnson, Tennessee, US",-0.26636338988258657
+"Knox, Tennessee, US",36.749562108126185
+"Lake, Tennessee, US",11.378812288167978
+"Lauderdale, Tennessee, US",1.230674790731937
+"Lawrence, Tennessee, US",3.9074334308140823
+"Lewis, Tennessee, US",-1.499644879680346
+"Lincoln, Tennessee, US",-6.056016245366723
+"Loudon, Tennessee, US",4.3662191579830925
+"Macon, Tennessee, US",5.949013462555797
+"Madison, Tennessee, US",18.219102851340367
+"Marion, Tennessee, US",-9.870410538885068
+"Marshall, Tennessee, US",-3.2889955771838197
+"Maury, Tennessee, US",12.724531848769226
+"McMinn, Tennessee, US",10.918401039545435
+"McNairy, Tennessee, US",-5.990378527985114
+"Meigs, Tennessee, US",-15.665461144161243
+"Monroe, Tennessee, US",0.2673073656497076
+"Montgomery, Tennessee, US",21.67834787460575
+"Moore, Tennessee, US",-10.821631672258723
+"Morgan, Tennessee, US",-18.761711615118905
+"Obion, Tennessee, US",3.5585058885232193
+"Overton, Tennessee, US",-6.569607682247739
+"Perry, Tennessee, US",-21.07039567014843
+"Pickett, Tennessee, US",-9.329545164777482
+"Polk, Tennessee, US",-14.774481643143835
+"Putnam, Tennessee, US",20.694337308378554
+"Rhea, Tennessee, US",11.925359845072354
+"Roane, Tennessee, US",-3.4873624927299813
+"Robertson, Tennessee, US",17.929322677475273
+"Rutherford, Tennessee, US",41.76933073251767
+"Scott, Tennessee, US",-18.338629664827327
+"Sequatchie, Tennessee, US",-14.562176253627097
+"Sevier, Tennessee, US",16.531331931502017
+"Shelby, Tennessee, US",64.30935198028412
+"Smith, Tennessee, US",-2.983998527781717
+"Stewart, Tennessee, US",-20.900004421595153
+"Sullivan, Tennessee, US",12.231071453793813
+"Sumner, Tennessee, US",33.06657161636077
+"Tipton, Tennessee, US",13.990384176522975
+"Trousdale, Tennessee, US",17.54793436415102
+"Unicoi, Tennessee, US",3.912662184267428
+"Union, Tennessee, US",3.1010695696473816
+"Van Buren, Tennessee, US",-10.794206392182874
+"Warren, Tennessee, US",7.425982997916961
+"Washington, Tennessee, US",11.670211669536682
+"Wayne, Tennessee, US",11.499313411895784
+"Weakley, Tennessee, US",-1.6913626556931216
+"White, Tennessee, US",4.052212022565273
+"Williamson, Tennessee, US",28.190161022932458
+"Wilson, Tennessee, US",25.56668718166699
+"Anderson, Texas, US",21.72945268180947
+"Andrews, Texas, US",-10.176671031833315
+"Angelina, Texas, US",15.857710845705899
+"Aransas, Texas, US",-7.878340083994505
+"Archer, Texas, US",-10.156056587468921
+"Armstrong, Texas, US",-31.39265625713479
+"Atascosa, Texas, US",1.1384506851078329
+"Austin, Texas, US",-12.918308447935122
+"Bailey, Texas, US",-7.143573831008684
+"Bandera, Texas, US",-23.553435003198036
+"Bastrop, Texas, US",12.356319480616287
+"Baylor, Texas, US",-21.030952959482782
+"Bee, Texas, US",3.9145418165308286
+"Bell, Texas, US",27.565181455746572
+"Bexar, Texas, US",67.45950781506718
+"Blanco, Texas, US",-29.63393197237539
+"Borden, Texas, US",-39.10527585382658
+"Bosque, Texas, US",-13.48954238081344
+"Bowie, Texas, US",11.28374038503476
+"Brazoria, Texas, US",40.26974886631403
+"Brazos, Texas, US",31.958851530692126
+"Brewster, Texas, US",1.8257869498685122
+"Briscoe, Texas, US",-36.94421700521224
+"Brooks, Texas, US",1.719016049628852
+"Brown, Texas, US",-2.6151954832222004
+"Burleson, Texas, US",-13.862299423894866
+"Burnet, Texas, US",-2.068134479400139
+"Caldwell, Texas, US",6.860601942710331
+"Calhoun, Texas, US",-7.80996933846259
+"Callahan, Texas, US",-20.530892164297036
+"Cameron, Texas, US",47.10736442775454
+"Camp, Texas, US",-11.576905525072137
+"Carson, Texas, US",-35.36663536594336
+"Cass, Texas, US",-11.520939996811796
+"Castro, Texas, US",-20.63143278778789
+"Chambers, Texas, US",5.030189366697616
+"Cherokee, Texas, US",3.5544271960924734
+"Childress, Texas, US",-6.181657036584754
+"Clay, Texas, US",-13.641244804324566
+"Cochran, Texas, US",-21.271104786994815
+"Coke, Texas, US",-15.573260722143543
+"Coleman, Texas, US",-7.429214614705502
+"Collin, Texas, US",44.244679147000156
+"Collingsworth, Texas, US",-40.511097641213816
+"Colorado, Texas, US",-11.803688035172236
+"Comal, Texas, US",14.307239519706549
+"Comanche, Texas, US",-5.046769495498146
+"Concho, Texas, US",-20.29771122936291
+"Cooke, Texas, US",-2.5922830944220667
+"Coryell, Texas, US",13.08774736805713
+"Cottle, Texas, US",-26.487368223374283
+"Crane, Texas, US",-15.572800362798674
+"Crockett, Texas, US",-8.50948413675882
+"Crosby, Texas, US",-14.747391692637223
+"Culberson, Texas, US",-18.07183582313674
+"Dallam, Texas, US",-14.723258000970224
+"Dallas, Texas, US",76.17989330527075
+"Dawson, Texas, US",-11.601084103960272
+"DeWitt, Texas, US",-2.1875669991639533
+"Deaf Smith, Texas, US",4.068931970440615
+"Delta, Texas, US",-29.4441392836319
+"Denton, Texas, US",45.63398993276633
+"Dickens, Texas, US",-23.623730160901324
+"Dimmit, Texas, US",2.4525212549586355
+"Donley, Texas, US",-35.62064098284828
+"Duval, Texas, US",-9.197666952209506
+"Eastland, Texas, US",-14.552636042186922
+"Ector, Texas, US",26.576485748938662
+"Edwards, Texas, US",-20.224182522812317
+"El Paso, Texas, US",58.52420351737093
+"Ellis, Texas, US",26.04054732747366
+"Erath, Texas, US",-3.454590970867264
+"Falls, Texas, US",-8.722704262938473
+"Fannin, Texas, US",-4.658550456445322
+"Fayette, Texas, US",-9.26602631928237
+"Fisher, Texas, US",-19.857034136000507
+"Floyd, Texas, US",-15.570627219545976
+"Foard, Texas, US",-22.000188525747333
+"Fort Bend, Texas, US",42.852710096292476
+"Franklin, Texas, US",-16.036426021564708
+"Freestone, Texas, US",-10.514844449509585
+"Frio, Texas, US",5.960850955503598
+"Gaines, Texas, US",-5.012484009873072
+"Galveston, Texas, US",42.31849808931003
+"Garza, Texas, US",-22.799094201943564
+"Gillespie, Texas, US",-2.0726247151243054
+"Glasscock, Texas, US",-44.86080782364927
+"Goliad, Texas, US",-32.02450914285962
+"Gonzales, Texas, US",8.110966543002972
+"Gray, Texas, US",-7.630090347484061
+"Grayson, Texas, US",15.621573438002896
+"Gregg, Texas, US",17.53073626762555
+"Grimes, Texas, US",5.427628581404863
+"Guadalupe, Texas, US",17.76087242642159
+"Hale, Texas, US",11.154824045934584
+"Hall, Texas, US",-15.480542663558909
+"Hamilton, Texas, US",-27.946334213021117
+"Hansford, Texas, US",-20.955679576996094
+"Hardeman, Texas, US",-22.204399031376855
+"Hardin, Texas, US",7.752481075997272
+"Harris, Texas, US",78.20607008614529
+"Harrison, Texas, US",6.694720889433229
+"Hartley, Texas, US",-25.613781691834873
+"Haskell, Texas, US",-14.755423140326153
+"Hays, Texas, US",28.332365718846834
+"Hemphill, Texas, US",-13.11160332313338
+"Henderson, Texas, US",5.622177789153576
+"Hidalgo, Texas, US",54.07282805902961
+"Hill, Texas, US",-7.253382908806106
+"Hockley, Texas, US",-14.58121454016338
+"Hood, Texas, US",-1.7053375329106106
+"Hopkins, Texas, US",-0.008370143475352799
+"Houston, Texas, US",-2.9571805145408794
+"Howard, Texas, US",5.751787618175807
+"Hudspeth, Texas, US",-19.092207230758774
+"Hunt, Texas, US",12.791318271200192
+"Hutchinson, Texas, US",-13.205795259691046
+"Irion, Texas, US",-39.32507669896288
+"Jack, Texas, US",-8.759734545789973
+"Jackson, Texas, US",-7.509855496415266
+"Jasper, Texas, US",-8.849426485261839
+"Jeff Davis, Texas, US",-35.41260842189144
+"Jefferson, Texas, US",34.512128538301475
+"Jim Hogg, Texas, US",-12.668149757926557
+"Jim Wells, Texas, US",10.461606936617427
+"Johnson, Texas, US",19.585561294352285
+"Jones, Texas, US",11.334235578011048
+"Karnes, Texas, US",14.136724930042195
+"Kaufman, Texas, US",22.809921087036162
+"Kendall, Texas, US",-16.78005613545188
+"Kenedy, Texas, US",-52.007679836346846
+"Kent, Texas, US",-35.92542238876311
+"Kerr, Texas, US",-1.3733471657228289
+"Kimble, Texas, US",-27.779213818323964
+"King, Texas, US",-25.9927122153775
+"Kinney, Texas, US",-15.969720003945715
+"Kleberg, Texas, US",-2.7147946560621445
+"Knox, Texas, US",-18.945662377989326
+"La Salle, Texas, US",2.8851821993693783
+"Lamar, Texas, US",8.001702715106546
+"Lamb, Texas, US",-2.030662559748392
+"Lampasas, Texas, US",-15.728115438804199
+"Lavaca, Texas, US",1.4566076510672208
+"Lee, Texas, US",-7.989593177176219
+"Leon, Texas, US",-18.775432585888975
+"Liberty, Texas, US",12.068722240356802
+"Limestone, Texas, US",-10.800408087995413
+"Lipscomb, Texas, US",-30.20716387172169
+"Live Oak, Texas, US",-15.582259196079239
+"Llano, Texas, US",-5.30741046332747
+"Lubbock, Texas, US",43.64820064767129
+"Lynn, Texas, US",-30.30462779621666
+"Madison, Texas, US",2.01298466938318
+"Marion, Texas, US",-26.01307033813612
+"Martin, Texas, US",-10.389474374380821
+"Mason, Texas, US",-29.888514057152978
+"Matagorda, Texas, US",-0.27256547652385876
+"Maverick, Texas, US",19.938759854719258
+"McCulloch, Texas, US",-10.677223135560501
+"McLennan, Texas, US",27.677884539923227
+"McMullen, Texas, US",-34.78423987612412
+"Medina, Texas, US",6.258850692907578
+"Menard, Texas, US",-28.487816821124202
+"Midland, Texas, US",22.21651519999685
+"Milam, Texas, US",-8.6898012161416
+"Mills, Texas, US",-15.279446400577694
+"Mitchell, Texas, US",-8.157590537587662
+"Montague, Texas, US",-21.299014841706814
+"Montgomery, Texas, US",40.749129209929116
+"Moore, Texas, US",13.12139840728988
+"Morris, Texas, US",-21.30268566097658
+"Motley, Texas, US",-36.674422325662185
+"Nacogdoches, Texas, US",12.984863328504886
+"Navarro, Texas, US",8.634234222675595
+"Newton, Texas, US",-14.607126773446623
+"Nolan, Texas, US",4.78192601344888
+"Nueces, Texas, US",43.2601452083745
+"Ochiltree, Texas, US",-14.110071965972779
+"Oldham, Texas, US",-27.187630831236326
+"Orange, Texas, US",12.167235436126496
+"Palo Pinto, Texas, US",-9.863775287613965
+"Panola, Texas, US",-4.106715966514446
+"Parker, Texas, US",14.398886599364616
+"Parmer, Texas, US",-1.4736622357451632
+"Pecos, Texas, US",-7.576588387383174
+"Polk, Texas, US",-0.6416164187741182
+"Potter, Texas, US",38.834459171178345
+"Presidio, Texas, US",-9.79384342827249
+"Rains, Texas, US",-12.792187723260778
+"Randall, Texas, US",28.064914723342522
+"Reagan, Texas, US",-12.39907856335606
+"Real, Texas, US",-12.54794471361983
+"Red River, Texas, US",-13.222740076666133
+"Reeves, Texas, US",-11.361200823148929
+"Refugio, Texas, US",-5.751972425281906
+"Roberts, Texas, US",-47.79835929136822
+"Robertson, Texas, US",-8.074875914016758
+"Rockwall, Texas, US",12.976368265862408
+"Runnels, Texas, US",4.195344025579577
+"Rusk, Texas, US",0.031106383586653238
+"Sabine, Texas, US",-20.143820296447743
+"San Augustine, Texas, US",-19.96863369467761
+"San Jacinto, Texas, US",-22.50039929640178
+"San Patricio, Texas, US",3.8681525386102584
+"San Saba, Texas, US",-12.86718642499205
+"Schleicher, Texas, US",-25.17710286982796
+"Scurry, Texas, US",13.723535203875272
+"Shackelford, Texas, US",-26.499839538213454
+"Shelby, Texas, US",-2.51473718650745
+"Sherman, Texas, US",-38.791628885776106
+"Smith, Texas, US",21.98401598701526
+"Somervell, Texas, US",-1.4970316746712033
+"Starr, Texas, US",14.616745587005765
+"Stephens, Texas, US",-9.94985851463191
+"Sterling, Texas, US",-25.18138136518117
+"Stonewall, Texas, US",-25.57417420716693
+"Sutton, Texas, US",-11.204862641903162
+"Swisher, Texas, US",-23.232893457504165
+"Tarrant, Texas, US",68.99102492395176
+"Taylor, Texas, US",19.510360806829397
+"Terrell, Texas, US",-20.284560247947695
+"Terry, Texas, US",-17.73242964571796
+"Throckmorton, Texas, US",-30.454848821294746
+"Titus, Texas, US",13.104819008241352
+"Tom Green, Texas, US",22.50944563057638
+"Travis, Texas, US",58.16371750452285
+"Trinity, Texas, US",-24.05839738595964
+"Tyler, Texas, US",-20.120722365845662
+"Upshur, Texas, US",-10.346992186267595
+"Upton, Texas, US",-22.645647593969276
+"Uvalde, Texas, US",-7.2190194110069115
+"Val Verde, Texas, US",5.548028011793777
+"Van Zandt, Texas, US",-4.221737545619309
+"Victoria, Texas, US",22.97719031216644
+"Walker, Texas, US",28.376580926617606
+"Waller, Texas, US",-1.8084575613116332
+"Ward, Texas, US",-2.646042073629829
+"Washington, Texas, US",-0.9353456124748887
+"Webb, Texas, US",42.49772459037307
+"Wharton, Texas, US",2.7002317587503906
+"Wheeler, Texas, US",-32.1229443195201
+"Wichita, Texas, US",13.406822069343749
+"Wilbarger, Texas, US",-10.500957924999895
+"Willacy, Texas, US",-2.4076833253027723
+"Williamson, Texas, US",36.37197309839717
+"Wilson, Texas, US",-3.369216683858394
+"Winkler, Texas, US",-7.306663383647162
+"Wise, Texas, US",2.5117464875741273
+"Wood, Texas, US",-5.645472164463932
+"Yoakum, Texas, US",-3.8766020672632746
+"Young, Texas, US",4.917118084750385
+"Zapata, Texas, US",-15.539187674070742
+"Zavala, Texas, US",-6.86090811221061
+"Davis, Utah, US",31.639096054999968
+"Salt Lake, Utah, US",63.76852002226078
+"San Juan, Utah, US",1.5316771261102329
+"Summit, Utah, US",9.217755798957045
+"Tooele, Utah, US",4.9336258527293895
+"Utah, Utah, US",53.435324421839695
+"Wasatch, Utah, US",4.691404328805529
+"Addison, Vermont, US",-29.56971314037667
+"Bennington, Vermont, US",-26.732230955868808
+"Caledonia, Vermont, US",-43.74967188424542
+"Chittenden, Vermont, US",8.646704307185347
+"Essex, Vermont, US",-36.58189983420021
+"Franklin, Vermont, US",-21.99583640663679
+"Grand Isle, Vermont, US",-50.04385992108469
+"Lamoille, Vermont, US",-38.883487864072734
+"Orange, Vermont, US",-46.25238239684356
+"Orleans, Vermont, US",-49.99371963864822
+"Rutland, Vermont, US",-26.873449764428827
+"Washington, Vermont, US",-28.112660073670227
+"Windham, Vermont, US",-24.870630507887256
+"Windsor, Vermont, US",-30.48168379407637
+"Accomack, Virginia, US",11.109804221895565
+"Albemarle, Virginia, US",7.090869664395598
+"Alexandria, Virginia, US",29.50545440237752
+"Alleghany, Virginia, US",-25.75658096407921
+"Amelia, Virginia, US",-29.696644924673105
+"Amherst, Virginia, US",-15.973483637016493
+"Appomattox, Virginia, US",-20.63364657368732
+"Arlington, Virginia, US",28.873986271278465
+"Augusta, Virginia, US",-1.5019578810713754
+"Bath, Virginia, US",-7.066211057036892
+"Bedford, Virginia, US",0.6421868650579095
+"Bland, Virginia, US",-5.145796343245935
+"Botetourt, Virginia, US",-14.100681366979094
+"Bristol, Virginia, US",4.270256987482575
+"Brunswick, Virginia, US",-13.368973013031708
+"Buchanan, Virginia, US",-22.433224788788742
+"Buckingham, Virginia, US",4.527363245228555
+"Buena Vista, Virginia, US",-30.85872202838716
+"Campbell, Virginia, US",-9.692737457382322
+"Caroline, Virginia, US",-10.171804766093206
+"Carroll, Virginia, US",2.4101164867476355
+"Charles City, Virginia, US",-34.648329619761256
+"Charlotte, Virginia, US",-27.61034388199163
+"Charlottesville, Virginia, US",0.5562661390141179
+"Chesapeake, Virginia, US",27.9510610715614
+"Chesterfield, Virginia, US",33.70948002617375
+"Clarke, Virginia, US",-28.40311229604337
+"Colonial Heights, Virginia, US",-12.580375992944598
+"Covington, Virginia, US",-16.29684271563696
+"Craig, Virginia, US",-39.504710755895594
+"Culpeper, Virginia, US",12.968818801638994
+"Cumberland, Virginia, US",-32.002510973185814
+"Danville, Virginia, US",-1.8263058340681284
+"Dickenson, Virginia, US",-4.134966826267977
+"Dinwiddie, Virginia, US",-9.39286778226304
+"Emporia, Virginia, US",-16.980268520472222
+"Essex, Virginia, US",-20.77681057136632
+"Fairfax, Virginia, US",56.715981604026595
+"Fairfax City, Virginia, US",-23.075482464167926
+"Falls Church, Virginia, US",-31.629703497974308
+"Fauquier, Virginia, US",4.964896865045757
+"Floyd, Virginia, US",-15.140228055151052
+"Fluvanna, Virginia, US",-12.044091082805057
+"Franklin, Virginia, US",-10.908355986365377
+"Franklin City, Virginia, US",-15.413712758855327
+"Frederick, Virginia, US",8.820722517708129
+"Fredericksburg, Virginia, US",-5.083435158528654
+"Galax, Virginia, US",-1.7387703811679613
+"Giles, Virginia, US",-25.568782544284957
+"Gloucester, Virginia, US",-20.207906799320856
+"Goochland, Virginia, US",-15.74710390515906
+"Grayson, Virginia, US",-8.517863679378701
+"Greene, Virginia, US",-19.122692877053026
+"Greensville, Virginia, US",-0.9496982950598982
+"Halifax, Virginia, US",-12.782230082969532
+"Hampton, Virginia, US",12.387975691727014
+"Hanover, Virginia, US",10.385038881183432
+"Harrisonburg, Virginia, US",19.868205471199968
+"Henrico, Virginia, US",35.41254977406833
+"Henry, Virginia, US",5.208522267836448
+"Highland, Virginia, US",-36.33336366893633
+"Hopewell, Virginia, US",-10.110164255202344
+"Isle of Wight, Virginia, US",-1.2565942965553905
+"James City, Virginia, US",-0.9791972225454332
+"King George, Virginia, US",-17.4171133272625
+"King William, Virginia, US",-21.48124088652672
+"King and Queen, Virginia, US",-33.18144030053366
+"Lancaster, Virginia, US",-27.41567331001212
+"Lee, Virginia, US",-18.428613740390308
+"Lexington, Virginia, US",-22.837340903283422
+"Loudoun, Virginia, US",35.82721443386805
+"Louisa, Virginia, US",-14.715958492288284
+"Lunenburg, Virginia, US",-24.380251282832035
+"Lynchburg, Virginia, US",6.014046330685852
+"Madison, Virginia, US",-30.02460776179402
+"Manassas,Virginia,US",18.17341068879445
+"Manassas Park, Virginia, US",-0.06804559767198282
+"Martinsville, Virginia, US",-1.2204754700491902
+"Mathews, Virginia, US",-34.884253443164205
+"Mecklenburg, Virginia, US",-0.24793254096676526
+"Middlesex, Virginia, US",-31.076109861053354
+"Montgomery, Virginia, US",8.43156252859719
+"Nelson, Virginia, US",-32.827887288174516
+"New Kent, Virginia, US",-21.142084947612243
+"Newport News, Virginia, US",18.543276490079922
+"Norfolk, Virginia, US",26.733321027766944
+"Northampton, Virginia, US",-8.445846598839235
+"Northumberland, Virginia, US",-25.649584193404802
+"Norton, Virginia, US",-19.648717578562703
+"Nottoway, Virginia, US",-13.686150419196453
+"Orange, Virginia, US",-11.179507316705383
+"Page, Virginia, US",-3.944320183057282
+"Patrick, Virginia, US",-9.869977697670121
+"Petersburg, Virginia, US",-0.9055765301230045
+"Pittsylvania, Virginia, US",3.3265915576121547
+"Poquoson, Virginia, US",-37.70095543842388
+"Portsmouth, Virginia, US",18.281208992812758
+"Powhatan, Virginia, US",-16.966820461961248
+"Prince Edward, Virginia, US",-2.3352240557534625
+"Prince George, Virginia, US",-1.6092321646869803
+"Prince William, Virginia, US",49.33872797966605
+"Pulaski, Virginia, US",-16.31739752259897
+"Radford, Virginia, US",-1.8991303735121554
+"Rappahannock, Virginia, US",-36.4447909750976
+"Richmond, Virginia, US",-5.326507311349748
+"Richmond City, Virginia, US",30.75192177185759
+"Roanoke, Virginia, US",6.088609627032329
+"Roanoke City, Virginia, US",14.821491939589777
+"Rockbridge, Virginia, US",-26.49880316661752
+"Rockingham, Virginia, US",14.483586538954869
+"Russell, Virginia, US",-11.993805419178981
+"Salem, Virginia, US",-10.004171225134463
+"Scott, Virginia, US",-19.616372499569582
+"Shenandoah, Virginia, US",6.2480998870788165
+"Smyth, Virginia, US",-12.67963847812448
+"Southampton, Virginia, US",-3.4088637313482932
+"Spotsylvania, Virginia, US",18.996985394032095
+"Stafford, Virginia, US",17.44187607865007
+"Staunton, Virginia, US",-9.745959414307839
+"Suffolk, Virginia, US",15.718330335023746
+"Surry, Virginia, US",-29.31990667474646
+"Sussex, Virginia, US",-7.513083626073876
+"Tazewell, Virginia, US",-10.215520750366313
+"Virginia Beach, Virginia, US",33.81127029295962
+"Warren, Virginia, US",-3.0563027971012287
+"Washington, Virginia, US",-3.4853476229565463
+"Waynesboro, Virginia, US",-13.208158380766337
+"Westmoreland, Virginia, US",-14.590755331149996
+"Williamsburg, Virginia, US",-27.39430894215972
+"Winchester, Virginia, US",-2.6939319613268644
+"Wise, Virginia, US",-10.691978766812356
+"Wythe, Virginia, US",-17.417067507688774
+"York, Virginia, US",-9.22811667134485
+"Adams, Washington, US",-3.6372967352142793
+"Asotin, Washington, US",-24.947254432557333
+"Benton, Washington, US",31.156722608247346
+"Chelan, Washington, US",12.479426287974883
+"Clallam, Washington, US",-24.56593202376022
+"Clark, Washington, US",25.07092849539274
+"Columbia, Washington, US",-40.74641901894379
+"Cowlitz, Washington, US",-2.828955580303289
+"Douglas, Washington, US",4.610584847472339
+"Ferry, Washington, US",-22.918297589725587
+"Franklin, Washington, US",28.214485051492602
+"Garfield, Washington, US",-17.699447278520697
+"Grant, Washington, US",15.133459695255615
+"Grays Harbor, Washington, US",-13.03781164036376
+"Island, Washington, US",-11.275855037456939
+"Jefferson, Washington, US",-36.957590539060284
+"King, Washington, US",55.87529388727705
+"Kitsap, Washington, US",4.58723281722155
+"Kittitas, Washington, US",-9.068018351368442
+"Klickitat, Washington, US",-26.14651187564923
+"Lewis, Washington, US",-10.026718434206952
+"Lincoln, Washington, US",-16.89682069946573
+"Mason, Washington, US",-13.149888627987412
+"Okanogan, Washington, US",-1.0886139400059376
+"Pacific, Washington, US",-24.75518746947861
+"Pend Oreille, Washington, US",-9.682975618881986
+"Pierce, Washington, US",39.95009870962018
+"San Juan, Washington, US",-50.169594463475356
+"Skagit, Washington, US",9.035905045385629
+"Skamania, Washington, US",-19.808943400677713
+"Snohomish, Washington, US",38.60150249391986
+"Spokane, Washington, US",34.99840648999979
+"Stevens, Washington, US",-24.872964829864245
+"Thurston, Washington, US",5.206691066207012
+"Wahkiakum, Washington, US",-50.01395415048832
+"Walla Walla, Washington, US",2.6043429562415987
+"Whatcom, Washington, US",11.125243150466336
+"Whitman, Washington, US",-8.869124187323035
+"Yakima, Washington, US",46.2327000764367
+"Barbour, West Virginia, US",-25.22668252778835
+"Berkeley, West Virginia, US",12.185914922417913
+"Boone, West Virginia, US",-13.889935320104382
+"Braxton, West Virginia, US",-14.995518662903137
+"Brooke, West Virginia, US",-5.278664532454444
+"Cabell, West Virginia, US",3.4891916896503075
+"Calhoun, West Virginia, US",-23.979062882005234
+"Clay, West Virginia, US",-29.90507372138763
+"Doddridge, West Virginia, US",-8.13628687511143
+"Fayette, West Virginia, US",-4.362135615383514
+"Gilmer, West Virginia, US",-32.23139344538845
+"Grant, West Virginia, US",-16.002891996886458
+"Greenbrier, West Virginia, US",-13.16229913171571
+"Hampshire, West Virginia, US",-23.99142389397465
+"Hancock, West Virginia, US",-23.17267286634927
+"Hardy, West Virginia, US",-20.813437230289846
+"Harrison, West Virginia, US",-8.99910197118886
+"Jackson, West Virginia, US",-11.509541796378938
+"Jefferson, West Virginia, US",-2.2161715855040334
+"Kanawha, West Virginia, US",17.385854912404476
+"Lewis, West Virginia, US",-24.471428011511644
+"Lincoln, West Virginia, US",-18.520510978521937
+"Logan, West Virginia, US",-12.88962387587637
+"Marion, West Virginia, US",-12.626630923044086
+"Marshall, West Virginia, US",-16.044382610550826
+"Mason, West Virginia, US",-26.47446473192588
+"McDowell, West Virginia, US",-31.60030422658684
+"Mercer, West Virginia, US",-11.091803929815606
+"Mineral, West Virginia, US",-12.37876659630379
+"Mingo, West Virginia, US",0.1298291376296584
+"Monongalia, West Virginia, US",10.491988353229084
+"Monroe, West Virginia, US",-28.59283207532743
+"Morgan, West Virginia, US",-32.69180120358524
+"Nicholas, West Virginia, US",-27.886573337910363
+"Ohio, West Virginia, US",-9.22151683075685
+"Pendleton, West Virginia, US",-33.15449924393486
+"Pleasants, West Virginia, US",-18.924818885005983
+"Pocahontas, West Virginia, US",-25.01837223832101
+"Preston, West Virginia, US",-18.600625720769308
+"Putnam, West Virginia, US",-7.577798082903084
+"Raleigh, West Virginia, US",-7.924954989014194
+"Randolph, West Virginia, US",-1.9980566128588928
+"Ritchie, West Virginia, US",-2.5933725963624314
+"Roane, West Virginia, US",-35.825824472699175
+"Summers, West Virginia, US",-5.443645650516763
+"Taylor, West Virginia, US",-27.454784519447667
+"Tucker, West Virginia, US",-27.504593931020402
+"Tyler, West Virginia, US",-17.992306831434142
+"Upshur, West Virginia, US",-20.22426244461512
+"Wayne, West Virginia, US",-4.291676901408983
+"Webster, West Virginia, US",-15.245328161040462
+"Wetzel, West Virginia, US",-21.48561774726286
+"Wirt, West Virginia, US",-27.024907735798877
+"Wood, West Virginia, US",-2.818941091671143
+"Wyoming, West Virginia, US",-5.2817837474576095
+"Adams, Wisconsin, US",1.1797739187324368
+"Ashland, Wisconsin, US",0.05985188170596152
+"Barron, Wisconsin, US",-4.381852187157095
+"Bayfield, Wisconsin, US",-0.12547408349800537
+"Brown, Wisconsin, US",44.98015291208355
+"Buffalo, Wisconsin, US",-18.89492523248023
+"Burnett, Wisconsin, US",1.636326777430332
+"Calumet, Wisconsin, US",8.465151202275152
+"Chippewa, Wisconsin, US",-0.33434677561628334
+"Clark, Wisconsin, US",-7.748313748839746
+"Columbia, Wisconsin, US",-5.5737131196019165
+"Crawford, Wisconsin, US",-9.206238307270318
+"Dane, Wisconsin, US",37.46584416146164
+"Dodge, Wisconsin, US",15.900853695395606
+"Door, Wisconsin, US",-10.837216433527455
+"Douglas, Wisconsin, US",-13.799791138782068
+"Dunn, Wisconsin, US",-8.885082786379261
+"Eau Claire, Wisconsin, US",10.151964987636589
+"Florence, Wisconsin, US",-11.41738967668807
+"Fond du Lac, Wisconsin, US",10.307320793633824
+"Forest, Wisconsin, US",-9.696615847646866
+"Grant, Wisconsin, US",8.09099916890034
+"Green, Wisconsin, US",-8.526784586892834
+"Green Lake, Wisconsin, US",-6.671951194699586
+"Iowa, Wisconsin, US",-16.53613965383333
+"Iron, Wisconsin, US",-5.674683499226476
+"Jackson, Wisconsin, US",-17.168737726298556
+"Jefferson, Wisconsin, US",8.389490509117868
+"Juneau, Wisconsin, US",-10.894547997060645
+"Kenosha, Wisconsin, US",30.038981452436527
+"Kewaunee, Wisconsin, US",-5.182511272731904
+"La Crosse, Wisconsin, US",11.549534270354771
+"Lafayette, Wisconsin, US",-5.91225511179603
+"Langlade, Wisconsin, US",2.1899153229935617
+"Lincoln, Wisconsin, US",2.2753878967345167
+"Manitowoc, Wisconsin, US",10.183870420616445
+"Marathon, Wisconsin, US",12.554260887219215
+"Marinette, Wisconsin, US",4.908929986652227
+"Marquette, Wisconsin, US",-0.6061480934602459
+"Menominee, Wisconsin, US",-9.735133111137818
+"Milwaukee, Wisconsin, US",63.84641776115943
+"Monroe, Wisconsin, US",-5.433161517596865
+"Oconto, Wisconsin, US",5.604783452633037
+"Oneida, Wisconsin, US",-11.833944335198668
+"Outagamie, Wisconsin, US",25.565357112796317
+"Ozaukee, Wisconsin, US",8.759522401743302
+"Pepin, Wisconsin, US",-5.115304128426776
+"Pierce, Wisconsin, US",-8.264752672097117
+"Polk, Wisconsin, US",0.9944378962147842
+"Portage, Wisconsin, US",15.23725760862328
+"Price, Wisconsin, US",-0.7340402351964956
+"Racine, Wisconsin, US",35.6033402163162
+"Richland, Wisconsin, US",-23.72650128676401
+"Rock, Wisconsin, US",25.03052188837119
+"Rusk, Wisconsin, US",-13.962511597063253
+"Sauk, Wisconsin, US",1.7737777394433205
+"Sawyer, Wisconsin, US",-8.136721580111864
+"Shawano, Wisconsin, US",2.1260776748513868
+"Sheboygan, Wisconsin, US",9.8738731337665
+"St. Croix, Wisconsin, US",5.0434429819148745
+"Taylor, Wisconsin, US",4.731211015996053
+"Trempealeau, Wisconsin, US",8.752161416390035
+"Vernon, Wisconsin, US",-5.509929710887185
+"Vilas, Wisconsin, US",-5.323210647351178
+"Walworth, Wisconsin, US",19.87681317180913
+"Washburn, Wisconsin, US",2.7110749734043997
+"Washington, Wisconsin, US",18.49454123670254
+"Waukesha, Wisconsin, US",37.17809138593339
+"Waupaca, Wisconsin, US",11.209547309114651
+"Waushara, Wisconsin, US",0.6622722769018127
+"Winnebago, Wisconsin, US",19.579294122571575
+"Wood, Wisconsin, US",16.20786619340042
+"Albany, Wyoming, US",-6.711502334051601
+"Big Horn, Wyoming, US",-14.906614531718567
+"Campbell, Wyoming, US",-7.65155540637843
+"Carbon, Wyoming, US",-14.121935522673661
+"Converse, Wyoming, US",-24.763048895945897
+"Crook, Wyoming, US",-39.875736178562875
+"Fremont, Wyoming, US",2.771708782971004
+"Goshen, Wyoming, US",-22.160560010138656
+"Hot Springs, Wyoming, US",-34.0163769778343
+"Johnson, Wyoming, US",-39.42292302732032
+"Laramie, Wyoming, US",6.78279004322899
+"Lincoln, Wyoming, US",-21.499904926893304
+"Natrona, Wyoming, US",-0.08166572370715706
+"Niobrara, Wyoming, US",-29.426648965102913
+"Park, Wyoming, US",10.3183559560915
+"Platte, Wyoming, US",-13.55761366303588
+"Sheridan, Wyoming, US",-18.203122276908804
+"Sublette, Wyoming, US",-10.126238216007213
+"Sweetwater, Wyoming, US",-7.8569339059944205
+"Teton, Wyoming, US",-3.677288335705919
+"Uinta, Wyoming, US",-7.141017291823929
+"Washakie, Wyoming, US",-26.058072822958017
+"Weston, Wyoming, US",2.5124729994044346

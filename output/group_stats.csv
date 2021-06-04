@@ -1,0 +1,22 @@
+variable,mean_early,sd_early,mean_late,sd_late,meansd_early,meansd_late
+Total Population,20.6,21,208,479,20.6±21,208±479
+Population Density,64.2,322,543,2660,64.2±322,543±2660
+Median Age,42.9,5.51,39.9,4.71,42.9±5.51,39.9±4.71
+Median Family Income,61.5,12.3,70.7,19.2,61.5±12.3,70.7±19.2
+Gini Index,0.441,0.0378,0.453,0.0344,0.441±0.0378,0.453±0.0344
+Proportion of Male,50.7,2.76,49.5,1.83,50.7±2.76,49.5±1.83
+Proportion of Whites,87.4,14.4,77.1,17.4,87.4±14.4,77.1±17.4
+Proportion of African Americans,5.17,11,14.5,16.8,5.17±11,14.5±16.8
+Proportion of Natives,2.22,7.69,1.1,4.42,2.22±7.69,1.1±4.42
+Proportion of Asians,0.741,1.72,2.19,3.63,0.741±1.72,2.19±3.63
+Proportion of Individuals who Used Public Transport,0.438,1.06,1.54,4.44,0.438±1.06,1.54±4.44
+Proportion who Moved within the Same County,5.62,2.44,6.9,2.6,5.62±2.44,6.9±2.6
+Proportion with Private Health Insurance,63,10,66.4,9.82,63±10,66.4±9.82
+Proportion with Public Health Insurance,42.3,9.09,37.5,8.09,42.3±9.09,37.5±8.09
+Debt/Contract Relief,-60.3,45.4,-7.46,8.64,-60.3±45.4,-7.46±8.64
+Public Information Campaigns,-91.4,48.8,-33.3,22.1,-91.4±48.8,-33.3±22.1
+Testing Policy,-117,45.5,-65.2,7.42,-117±45.5,-65.2±7.42
+Contact Tracing,-117,45.5,-65.2,7.41,-117±45.5,-65.2±7.41
+Facial Coverings,123,143,170,138,123±143,170±138
+Vaccination Policy,211,45.5,264,9.55,211±45.5,264±9.55
+Protection of Elderly People,-4.44,135,43.6,112,-4.44±135,43.6±112
